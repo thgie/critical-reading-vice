@@ -1,0 +1,3390 @@
+hummeradc.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+trapthem_snespad.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ieee-resources.h;Andreas Boose <viceteam@t-online.de>
+settings_joystick.h;Bas Wassink <b.wassink@ziggo.nl>
+ciamodelwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+vsidui 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vsidui 2.c;Bas Wassink <b.wassink@ziggo.nl>
+render1x1ntsc.c;groepaz <groepaz@gmx.net> based on the pal renderers written by
+render1x1ntsc.c;John Selck <graham@cruise.de>
+gamekiller.h;Groepaz <groepaz@gmx.net>
+c128memsnapshot.h;Andreas Boose <viceteam@t-online.de>
+c128memsnapshot.h;Ettore Perazzoli <ettore@comm2000.it>
+uifliplist.c;Michael C. Martin <mcmartin@gmail.com>
+uifliplist.c;Bas Wassink <b.wassink@ziggo.nl>
+cx85.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_controlport.c;Bas Wassink <b.wassink@ziggo.nl>
+cs8900.c;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+cs8900.c;Christian Vogelgsang <chris@vogelgsang.org>
+settings_retroreplay.c;Bas Wassink <b.wassink@ziggo.nl>
+petsound.h;Teemu Rantanen <tvr@cs.hut.fi>
+vsidstate.c;Bas Wassink <b.wassink@ziggo.nl>
+plus4printer.c;Andreas Boose <viceteam@t-online.de>
+cbm5x0.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+cbm5x0.c;Andreas Boose <viceteam@t-online.de>
+cbm5x0.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+raster-cache-nibbles.h;Andreas Boose <viceteam@t-online.de>
+raster-cache-nibbles.h;Ettore Perazzoli <ettore@comm2000.it>
+vsidmixerwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+ted-timing.h;Andreas Boose <viceteam@t-online.de>
+c64-memory-hacks.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+via4000.h;Kajtar Zsolt <soci@c64.rulez.org>
+plus4memoryexpansionwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+crt 2.c;Andreas Boose <viceteam@t-online.de>
+crt 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+joy.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+cbm2mem.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+machinemodelwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_sid.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_sid.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+userport_superpad64.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64dtv-snapshot.h;Andreas Boose <viceteam@t-online.de>
+dinamic.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+freezemachine.c;Groepaz <groepaz@gmx.net>
+generic.h;groepaz <groepaz@gmx.net>
+mem1551.h;Andreas Boose <viceteam@t-online.de>
+ds12c887.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+main.h;Bas Wassink <b.wassink@ziggo.nl>
+resourcescale.c;Bas Wassink <b.wassink@ziggo.nl>
+userportrsinterfacewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+script64_dongle.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+video-sound.h;groepaz <groepaz@gmx.net>
+csshelpers.c;*  \author Bas Wassink <b.wassink@ziggo.nl>
+render2x2pal.h;John Selck <graham@cruise.de>
+render2x2pal.h;Andreas Boose <viceteam@t-online.de>
+directx_renderer_impl.cc;David Hogan <david.q.hogan@gmail.com>
+iecbus.h;*  \author Andreas Boose <viceteam@t-online.de>
+userport_petscii_snespad.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+resourcecombobox.c;Bas Wassink <b.wassink@ziggo.nl>
+userport_8bss.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uitapeattach.h;Bas Wassink <b.wassink@ziggo.nl>
+uitapeattach.h;Michael C. Martin <mcmartin@gmail.com>
+settings_reu.c;Bas Wassink <b.wassink@ziggo.nl>
+scpu64-resources.h;Kajtar Zsolt <soci@c64.rulez.org>
+scpu64-resources.h;Andreas Boose <viceteam@t-online.de>
+vsidplaylistwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+sense-dongle.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+pet-resources.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+pet-resources.c;Andreas Boose <viceteam@t-online.de>
+vic20-generic.h;Daniel Kahlin <daniel@kahlin.net>
+uistatusbar.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+settings_default_cart.c;Bas Wassink <b.wassink@ziggo.nl>
+mon_assemble6502.c;Daniel Sladic <sladic@eecg.toronto.edu>
+mon_assemble6502.c;Ettore Perazzoli <ettore@comm2000.it>
+mon_assemble6502.c;Andreas Boose <viceteam@t-online.de>
+vdrive.h;Andreas Boose <viceteam@t-online.de>
+settings_digimax.h;Bas Wassink <b.wassink@ziggo.nl>
+crtc.c;Ettore Perazzoli <ettore@comm2000.it>
+crtc.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+actions-debug.c;Bas Wassink <b.wassink@ziggo.nl>
+scpu64-stubs.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+raster-canvas.c;Andreas Boose <viceteam@t-online.de>
+raster-canvas.c;Ettore Perazzoli <ettore@comm2000.it>
+coplin_keypad.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+log.c;Ettore Perazzoli <ettore@comm2000.it>
+plus4exp-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+mousedrv.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+fliplist.c;pottendo <pottendo@gmx.net>
+fliplist.c;Bas Wassink <b.wassink@ziggo.nl>
+statusbarledwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+serial-iec.c;Andreas Boose <viceteam@t-online.de>
+petacia.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c128functionromwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+vic20mem.h;Ettore Perazzoli <ettore@comm2000.it>
+vic20mem.h;Daniel Kahlin <daniel@kahlin.net>
+vic20mem.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+sound.h;Teemu Rantanen <tvr@cs.hut.fi>
+sound.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+z80mem.c;Andreas Boose <viceteam@t-online.de>
+vic20-sidcart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+profdos.h;Andreas Boose <viceteam@t-online.de>
+menu_monitor.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+archdep_kbd_get_host_mapping.h;groepaz <groepaz@gmx.net>
+viciitypes 2.h;Ettore Perazzoli <ettore@comm2000.it>
+viciitypes 2.h;Andreas Boose <viceteam@t-online.de>
+viciitypes 2.h;Daniel Kahlin <daniel@kahlin.net>
+ieeeflash64.c;Christopher Bongaarts <cab@bongalow.net>
+console.h;Andreas Boose <viceteam@t-online.de>
+ssi2001.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+fsdevice-filename.h;groepaz <groepaz@gmx.net>
+magicformel.c;Andreas Boose <viceteam@t-online.de>
+magicformel.c;Groepaz <groepaz@gmx.net>
+joystick_bsd.c;Dieter Baron <dillo@nih.at>
+joystick_bsd.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+capture.h;Groepaz <groepaz@gmx.net>
+vic20cartmem.c;Daniel Kahlin <daniel@kahlin.net>
+c128cart.c;groepaz <groepaz@gmx.net>
+plus4-stubs.c;groepaz <groepaz@gmx.net>
+hardsid-win32-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_sfxsoundsampler.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_video.c;Bas Wassink <b.wassink@ziggo.nl>
+joystick_linux.c;Bernhard Kuhn <kuhn@eikon.e-technik.tu-muenchen.de>
+joystick_linux.c;Ulmer Lionel <ulmer@poly.polytechnique.fr>
+joystick_linux.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+joystick_linux.c;Daniel Sladic <sladic@eecg.toronto.edu>
+joystick_linux.c;Krister Walfridsson <cato@df.lth.se>
+joystick_linux.c;Luca Montecchiani  <m.luca@usa.net> (http://i.am/m.luca)
+rexramfloppy.h;groepaz <groepaz@gmx.net>
+fsimage.h;Andreas Boose <viceteam@t-online.de>
+supersnapshot.c;Andreas Boose <viceteam@t-online.de>
+supersnapshot.c;Nathan Huizinga <nathan.huizinga@chess.nl>
+supersnapshot.c;Groepaz <groepaz@gmx.net>
+epyxfastload.h;Andreas Boose <viceteam@t-online.de>
+opencbm.h;*Michael Klein <michael(dot)klein(at)puffin(dot)lb(dot)shuttle(dot)de> \n
+opencbm.h;** \authors With modifications to fit on Windows from
+opencbm.h;** \authors With additions from Wolfgang Moser \n
+opencbm.h;** \authors With CBM 1530/1531 tape drive additions from Arnd Menge \n
+vdc.h;Markus Brenner <markus@brenner.de>
+vdc.h;Ettore Perazzoli <ettore@comm2000.it>
+vdc.h;Andreas Boose <viceteam@t-online.de>
+cbmdos.h;Andreas Boose <viceteam@t-online.de>
+burstmodewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+hvsc_defs.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4bus.c;Andreas Boose <viceteam@t-online.de>
+menu_drive.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20memoryexpansionwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_romset.h;Bas Wassink <b.wassink@ziggo.nl>
+soundpulse.c;Antti S. Lankila <alankila@bel.fi>
+maincpu.h;Ettore Perazzoli <ettore@comm2000.it>
+maincpu.h;Andreas Boose <viceteam@t-online.de>
+rawnet.c;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+rawnet.c;Christian Vogelgsang <chris@vogelgsang.org>
+actions-speed.c;Bas Wassink <b.wassink@ziggo.nl>
+c64-midi.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+c64-midi.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_list_drives.h;(Unknown)
+userport_4bit_sampler.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+render1x2.h;John Selck <graham@cruise.de>
+render1x2.h;Andreas Boose <viceteam@t-online.de>
+nativedrv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+nativedrv.c;groepaz <groepaz@gmx.net>
+network.c;Andreas Matthies <andreas.matthies@gmx.net>
+cbm2cart.c;Groepaz <groepaz@gmx.net>
+vicii.c;Ettore Perazzoli <ettore@comm2000.it>
+vicii.c;Andreas Boose <viceteam@t-online.de>
+settings_gmod3.c;Bas Wassink <b.wassink@ziggo.nl>
+x64sc_ui.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+x64sc_ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+sidcartwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+diskcontents-iec.c;Andreas Boose <viceteam@t-online.de>
+cbm2tpi2.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+cbm2tpi2.c;Andreas Boose <viceteam@t-online.de>
+c64exp-resources.c;Andreas Boose <viceteam@t-online.de>
+petmem.c;Ettore Perazzoli <ettore@comm2000.it>
+petmem.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+petmem.c;Andreas Boose <viceteam@t-online.de>
+petmem.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20ieeevia1.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+vic20ieeevia1.c;Andreas Boose <viceteam@t-online.de>
+godotdrv.h;Kajtar Zsolt <soci@c64.rulez.org>
+raster-cache-text-std.h;Andreas Boose <viceteam@t-online.de>
+raster-cache-text-std.h;Ettore Perazzoli <ettore@comm2000.it>
+c64pla.c;Andreas Boose <viceteam@t-online.de>
+c64pla.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+raster-changes.h;Ettore Perazzoli <ettore@comm2000.it>
+raster-changes.h;Andreas Boose <viceteam@t-online.de>
+daa.c;Andreas Boose <viceteam@t-online.de>
+daa.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+printer.h;Andreas Boose <viceteam@t-online.de>
+archdep_get_vice_datadir.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep 2.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_autofire.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_ultimem.c;Bas Wassink <b.wassink@ziggo.nl>
+parallel-trap.c;Andreas Boose <viceteam@t-online.de>
+parallel-trap.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+fsdevicetypes.h;Andreas Boose <viceteam@t-online.de>
+delaep64.c;Michael Klein <michael.klein@puffin.lb.shuttle.de>
+mon_register6502.c;Andreas Boose <viceteam@t-online.de>
+mon_register6502.c;Daniel Sladic <sladic@eecg.toronto.edu>
+mon_register6502.c;Ettore Perazzoli <ettore@comm2000.it>
+archdep_default_portable_resource_file_name.c;groepaz <groepaz@gmx.de>
+raster-cache-const.h;Andreas Boose <viceteam@t-online.de>
+ds12c887rtc.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_c64hw.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_c64hw.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ram.h;Andreas Matthies <andreas.matthies@gmx.net>
+archdep_make_backup_filename.h;Bas Wassink <b.wassink@ziggo.nl>
+catweaselmkiii-win32-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+scpu64.h;*  \author Kajtar Zsolt <soci@c64.rulez.org>
+scpu64.h;*  \author Andreas Boose <viceteam@t-online.de>
+scpu64.h;*  \author Ettore Perazzoli <ettore@comm2000.it>
+scpu64.h;*  \author Marco van den Heuvel <blackystardust68@yahoo.com>
+memieee.h;Andreas Boose <viceteam@t-online.de>
+vdrive-bam.h;Andreas Boose <viceteam@t-online.de>
+driveunitwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+dma.h;Andreas Boose <viceteam@t-online.de>
+menu_network.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+vic20printer.c;Andreas Boose <viceteam@t-online.de>
+plus4cart.h;Tibor Biczo <crown@axelero.hu>
+plus4cart.h;groepaz <groepaz@gmx.net>
+iec-resources.c;Andreas Boose <viceteam@t-online.de>
+interface-serial.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+interface-serial.c;Andreas Boose <viceteam@t-online.de>
+settings_autostart.c;Bas Wassink <b.wassink@ziggo.nl>
+ross.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+coproc.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+crtcontrolwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_printer.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+vdrive-internal.h;Andreas Boose <viceteam@t-online.de>
+rs232drv.c;Andreas Boose <viceteam@t-online.de>
+parsid-beos-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+gtk3main.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+savefiledialog.c;Bas Wassink <b.wassink@ziggo.nl>
+c64acia.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c64acia.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mididrv.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+cbm5x0rom.c;Andreas Boose <viceteam@t-online.de>
+cbm5x0rom.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+settings_crt.h;Bas Wassink <b.wassink@ziggo.nl>
+formel64.h;groepaz <groepaz@gmx.net>
+ioramcart.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+main65816cpu.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+main65816cpu.c;Kajtar Zsolt <soci@c64.rulez.org>
+fsdrive.c;Andreas Boose <viceteam@t-online.de>
+c128fastiec.h;Andreas Boose <viceteam@t-online.de>
+vic20sound.h;Teemu Rantanen <tvr@cs.hut.fi>
+drivefixedsizewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+plus60k.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+pngdrv.c;Daniel Sladic <dsladic@cs.cmu.edu>
+pngdrv.c;Andreas Boose <viceteam@t-online.de>
+c128-resources.c;Andreas Boose <viceteam@t-online.de>
+c128-resources.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+soundbeos.cc;Andreas Matthies <andreas.matthies@gmx.net>
+cbm2rom.c;Andreas Boose <viceteam@t-online.de>
+cbm2rom.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+raster-cache.h;Ettore Perazzoli <ettore@comm2000.it>
+raster-cache.h;Andreas Boose <viceteam@t-online.de>
+catweaselmkiii-beos-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+joystickdevicewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_model.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_model.c;Groepaz <groepaz@gmx.de>
+hs-win32-isa.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mon_util.c;Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+render2x4.c;groepaz <groepaz@gmx.net> based on the renderers written by
+render2x4.c;John Selck <graham@cruise.de>
+settings_midi.c;Bas Wassink <b.wassink@ziggo.nl>
+monitor.c;Daniel Sladic <sladic@eecg.toronto.edu>
+monitor.c;Ettore Perazzoli <ettore@comm2000.it>
+monitor.c;Andreas Boose <viceteam@t-online.de>
+monitor.c;Daniel Kahlin <daniel@kahlin.net>
+monitor.c;Thomas Giesel <skoe@directbox.com>
+monitor.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_plus4cart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uicolor.h;Andreas Boose <viceteam@t-online.de>
+serial-device.c;Andreas Boose <viceteam@t-online.de>
+drive-check.h;Andreas Boose <viceteam@t-online.de>
+inception.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64keyboard.c;Andreas Boose <viceteam@t-online.de>
+rsuser.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+rsuser.c;Andreas Boose <viceteam@t-online.de>
+westermann.h;groepaz <groepaz@gmx.net>
+behrbonz.h;groepaz <groepaz@gmx.net>
+spi-flash.h;Groepaz <groepaz@gmx.net>
+palette.c;Ettore Perazzoli <ettore@comm2000.it>
+palette.c;Andreas Boose <viceteam@t-online.de>
+menu_c64_common_expansions.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+raster-line-changes.c;Andreas Boose <viceteam@t-online.de>
+raster-line-changes.c;Ettore Perazzoli <ettore@comm2000.it>
+render2x4rgbi.c;groepaz <groepaz@gmx.net> based on the pal renderers written by
+render2x4rgbi.c;John Selck <graham@cruise.de>
+kcs.c;Andreas Boose <viceteam@t-online.de>
+vicesocket.h;*  \author Spiro Trikaliotis\n
+vicesocket.h;Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+settings_rs232.h;Bas Wassink <b.wassink@ziggo.nl>
+actions-hotkeys.c;Bas Wassink <b.wassink@ziggo.nl>
+cbm2-resources.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+cbm2-resources.c;Andreas Boose <viceteam@t-online.de>
+vsyncapi.h;Thomas Bretz <tbretz@gsi.de>
+vic20rom.c;Andreas Boose <viceteam@t-online.de>
+vic20rom.c;Ettore Perazzoli <ettore@comm2000.it>
+vic20rom.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c64-resources.h;Andreas Boose <viceteam@t-online.de>
+settings_magicvoice.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_midi.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+asm65816.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_c64model.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+videorenderfilterwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+uimenu.h;Bas Wassink <b.wassink@ziggo.nl>
+uimenu.h;Marcus Sutton <loggedoubt@gmail.com>
+catweaselmkiii.c;Andreas Boose <viceteam@t-online.de>
+catweaselmkiii.c;Dirk Jagdmann <doj@cubic.org>
+catweaselmkiii.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+menu_snapshot.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-irq.c;Andreas Boose <viceteam@t-online.de>
+vicii-irq.c;Ettore Perazzoli <ettore@comm2000.it>
+vic20-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+archdep_is_macos_bindist.c;David Hogan <david.q.hogan@gmail.com>
+archdep_fseeko.h;Bas Wassink <b.wassink@ziggo.nl>
+fsimage-dxx.h;Kajtar Zsolt <soci@c64.rulez.org>
+superexplode5.c;Groepaz <groepaz@gmx.net>
+archdep_quote_unzip.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_rawnet_capability.h;groepaz <groepaz@gmx.net>
+ramlink.h;Roberto Muscedere <rmusced@uwindsor.ca>
+viacore.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+viacore.c;Andreas Boose <viceteam@t-online.de>
+viacore.c;Olaf Seibert <rhialto@falu.nl>
+c64_diag_586220_harness.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4parallel.h;Andreas Boose <viceteam@t-online.de>
+menu_rom.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+serial.c;Teemu Rantanen <tvr@cs.hut.fi>
+serial.c;Andreas Boose <viceteam@t-online.de>
+serial.c;Ettore Perazzoli <ettore@comm2000.it>
+settings_host_display.c;Bas Wassink <b.wassink@ziggo.nl>
+machine-video.h;Andreas Boose <viceteam@t-online.de>
+c64dtvdma.h;M.Kiesel <mayne@users.sourceforge.net>
+c64dtvdma.h;Daniel Kahlin <daniel@kahlin.net>
+raster-modes.c;Ettore Perazzoli <ettore@comm2000.it>
+raster-modes.c;Andreas Boose <viceteam@t-online.de>
+cbm2ui 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2ui 2.c;Bas Wassink <b.wassink@ziggo.nl>
+soundwmm.c;Lasse Oorni <loorni@student.oulu.fi>
+soundwmm.c;Andreas Matthies <andreas.matthies@gmx.net>
+rushware_keypad.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+kbd 3.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+kbd 3.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+hotkeymap.h;Bas Wassink <b.wassink@ziggo.nl>
+petcat.c;Jouko Valta <jopi@stekt.oulu.fi>
+ps-unix-io.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mouse.c;Andreas Boose <viceteam@t-online.de>
+mouse.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+i8255a.h;Roberto Muscedere <rmusced@uwindsor.ca>
+ted-irq.h;Andreas Boose <viceteam@t-online.de>
+render2x2.h;John Selck <graham@cruise.de>
+render2x2.h;Andreas Boose <viceteam@t-online.de>
+vicii-sprites.h;Ettore Perazzoli <ettore@comm2000.it>
+vicii-sprites.h;Andreas Boose <viceteam@t-online.de>
+imagecontents.h;Ettore Perazzoli <ettore@comm2000.it>
+imagecontents.h;Andreas Boose <viceteam@t-online.de>
+superpetwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+hs-unix-pci.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+petrom.h;Ettore Perazzoli <ettore@comm2000.it>
+petrom.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+petrom.h;Andreas Boose <viceteam@t-online.de>
+diashowmaker.c;Groepaz <groepaz@gmx.net>
+uifilereq.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+io-access.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_tapeport.c;Bas Wassink <b.wassink@ziggo.nl>
+ciacore.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+ata.h;Kajtar Zsolt <soci@c64.rulez.org>
+render2x2ntsc.c;groepaz <groepaz@gmx.net> based on the pal renderers written by
+render2x2ntsc.c;John Selck <graham@cruise.de>
+vicioramwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+c64memhackswidget.h;BasWassink <b.wassink@ziggo.nl>
+vicii-lightpen.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+mouse_1351.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mouse_1351.c;Andreas Boose <viceteam@t-online.de>
+raster-sprite-status.c;Ettore Perazzoli <ettore@comm2000.it>
+raster-sprite-status.c;Andreas Boose <viceteam@t-online.de>
+serial-trap.h;Andreas Boose <viceteam@t-online.de>
+ds1202_1302.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+resourcecheckbutton.c;Bas Wassink <b.wassink@ziggo.nl>
+fsdevice-resources.c;Andreas Boose <viceteam@t-online.de>
+tapeimage.h;Andreas Boose <viceteam@t-online.de>
+pc8477.c;Kajtar Zsolt <soci@c64.rulez.org>
+menu_reset.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mach5.c;Groepaz <groepaz@gmx.net>
+driveextendpolicywidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vic20memrom.h;Andreas Boose <viceteam@t-online.de>
+soundaiff.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+file_drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ds1602.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uidiskcreate.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_ffmpeg.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+videobordermodewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+c128ui 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c128ui 2.c;Bas Wassink <b.wassink@ziggo.nl>
+multicart.c;groepaz <groepaz@gmx.net>
+socket-win32-impl.h;*  \author Spiro Trikaliotis\n
+socket-win32-impl.h;Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+shortbus_digimax.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ui 2.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+ui 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+atomicpower.h;Andreas Boose <viceteam@t-online.de>
+c64acia1.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c64acia1.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+lib.c;Andreas Boose <viceteam@t-online.de>
+lib.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+scpu64meminit.c;Kajtar Zsolt <soci@c64.rulez.org>
+vic20-ieee488.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20iec.h;Daniel Sladic <sladic@eecg.toronto.edu>
+vic20iec.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vic20iec.h;Andreas Boose <viceteam@t-online.de>
+sounddump.c;Teemu Rantanen <tvr@cs.hut.fi>
+debug 2.h;Andreas Boose <viceteam@t-online.de>
+interrupt.c;Ettore Perazzoli <ettore@comm2000.it>
+interrupt.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+interrupt.c;Andreas Boose <viceteam@t-online.de>
+plus4-generic.h;groepaz <groepaz@gmx.net>
+cp-clockf83.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+macOS-util.h;David Hogan <david.q.hogan@gmail.com>
+version.h;Andreas Boose <viceteam@t-online.de>
+realdevice.c;Andreas Boose <viceteam@t-online.de>
+realdevice.c;Michael Klein <nip@c64.org>
+vicii 2.c;Ettore Perazzoli <ettore@comm2000.it>
+vicii 2.c;Andreas Boose <viceteam@t-online.de>
+userport.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic-resources.c;Andreas Boose <viceteam@t-online.de>
+settings_ramcart.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_hotkeys.c;Bas Wassink <b.wassink@ziggo.nl>
+supersnapshot4.c;Andreas Boose <viceteam@t-online.de>
+supersnapshot4.c;Nathan Huizinga <nathan.huizinga@chess.nl>
+supersnapshot4.c;Groepaz <groepaz@gmx.net>
+render2x2palu.h;John Selck <graham@cruise.de>
+render2x2palu.h;Andreas Boose <viceteam@t-online.de>
+iec128dcr-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+plus4-sidcart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+riotcore.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+riotcore.c;Andreas Boose <viceteam@t-online.de>
+settings_mmcr.h;Bas Wassink <b.wassink@ziggo.nl>
+serial-iec-device.h;Andreas Boose <viceteam@t-online.de>
+midi-osx-drv.c;Christian Vogelgsang <chris@vogelgsang.org>
+cardkey.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+rs232-win32-dev.c;Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+rs232-win32-dev.c;groepaz <groepaz@gmx.net>
+rs232-win32-dev.c;Greg King <gregdk@users.sf.net>
+autostart-prg.c;Christian Vogelgsang <chris@vogelgsang.org>
+autostart-prg.c;groepaz <groepaz@gmx.net>
+gcr.c;Andreas Boose <viceteam@t-online.de>
+gcr.c;Daniel Sladic <sladic@eecg.toronto.edu>
+gcr.c;Kajtar Zsolt <soci@c64.rulez.org>
+tcbm-resources.c;Andreas Boose <viceteam@t-online.de>
+c128-stubs.c;groepaz <groepaz@gmx.net>
+riotd.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+riotd.h;Andreas Boose <viceteam@t-online.de>
+export.h;Andreas Boose <viceteam@t-online.de>
+export.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2model.c;groepaz <groepaz@gmx.net>
+raster-cache-text-ext.h;Andreas Boose <viceteam@t-online.de>
+raster-cache-text-ext.h;Ettore Perazzoli <ettore@comm2000.it>
+crtc-draw.h;Ettore Perazzoli <ettore@comm2000.it>
+crtc-draw.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c128-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+c128-cmdline-options.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c128meminit.c;Andreas Boose <viceteam@t-online.de>
+vic20video.c;Andreas Boose <viceteam@t-online.de>
+settings_mixer.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_sampler.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+videopalettewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+fsdevice-open.h;Andreas Boose <viceteam@t-online.de>
+scpu64cpu.c;Kajtar Zsolt <soci@c64.rulez.org>
+userport_io_sim.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4tcbm.c;Andreas Boose <viceteam@t-online.de>
+petdwwwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+vicii-draw-cycle.h;Daniel Kahlin <daniel@kahlin.net>
+iecieee.h;Andreas Boose <viceteam@t-online.de>
+functionrom.c;Andreas Boose <viceteam@t-online.de>
+functionrom.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+hs-beos-pci.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+cbm2-cmdline-options.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+digimaxcore.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+render_thread.c;David Hogan <david.q.hogan@gmail.com>
+cbm2iec.h;Andreas Boose <viceteam@t-online.de>
+fdc.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+rexutility.h;Andreas Boose <viceteam@t-online.de>
+petui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+petui.c;Bas Wassink <b.wassink@ziggo.nl>
+debugcart 4.c;groepaz <groepaz@gmx.net>
+joystickmenupopup.h;*  \author Bas Wassink <b.wassink@ziggo.nl>
+uihotkey.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+opengl_renderer.c;Michael C. Martin <mcmartin@gmail.com>
+opengl_renderer.c;David Hogan <david.q.hogan@gmail.com>
+cs8900io.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4-resources.c;Andreas Boose <viceteam@t-online.de>
+plus4-resources.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+petdww.c;Olaf 'Rhialto' Seibert <rhialto@falu.nl>
+blackbox8.c;groepaz <groepaz@gmx.net>
+ltkernal.c;Roberto Muscedere <rmusced@uwindsor.ca>
+resourcebrowser.h;Bas Wassink <b.wassink@ziggo.nl>
+cbm2hardwiredswitcheswidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vsyncarch.c;Dag Lem <resid@nimrod.no>
+archdep_file_is_chardev.c;Bas Wassink <b.wassink@ziggo.nl>
+uimsgbox.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+drive-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+uisidattach.h;Bas Wassink <b.wassink@ziggo.nl>
+ted-fetch.c;Andreas Boose <viceteam@t-online.de>
+ted-fetch.c;Ettore Perazzoli <ettore@comm2000.it>
+ted-fetch.c;Tibor Biczo <crown@axelero.hu>
+scpu64ui.h;Ettore Perazzoli <ettore@comm2000.it>
+scpu64ui.h;Andreas Boose <viceteam@t-online.de>
+c64-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+c64-cmdline-options.c;Ettore Perazzoli <ettore@comm2000.it>
+c64-cmdline-options.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uitapecreate.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_create_user_cache_dir.h;Bas Wassink <b.wassink@ziggo.nl>
+alarm.h;Ettore Perazzoli <ettore@comm2000.it>
+alarm.h;Andreas Boose <viceteam@t-online.de>
+canvasrenderfilterwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_edit.c;groepaz <groepaz@gmx.net>
+vic.c;Ettore Perazzoli <ettore@comm2000.it>
+vic.c;Andreas Matthies <andreas.matthies@gmx.net>
+c128cpu.c;Ettore Perazzoli <ettore@comm2000.it>
+c128cpu.c;Andreas Boose <viceteam@t-online.de>
+c128cpu.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+joyport.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ocean.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mousedrv 3.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_cpm.h;Bas Wassink <b.wassink@ziggo.nl>
+sid-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+sid-cmdline-options.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+parsid-unix-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64bus.c;Andreas Boose <viceteam@t-online.de>
+rtc-72421.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+drive-snapshot.h;Andreas Boose <viceteam@t-online.de>
+mouse_quadrature.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+archdep_fdopen.h;Bas Wassink <b.wassink@ziggo.nl>
+drive-sound.c;Kajtar Zsolt <soci@c64.rulez.org>
+rs232.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+rs232.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c128fullbankswidget.h;Bas Wassink <b.wassink@ziggo.nl>
+fileio.c;Andreas Boose <viceteam@t-online.de>
+netplaywidget.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_mkstemp_fd.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_mkstemp_fd.c;Bas Wassink <b.wassink@ziggo.nl>
+c64dtv-stubs.c;groepaz <groepaz@gmx.net>
+c64dtv-stubs.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+pagefox.h;Groepaz/Hitmen <groepaz@gmx.net>
+uivsidmenu.c;Marcus Sutton <loggedoubt@gmail.com>
+uivsidmenu.c;Bas Wassink <b.wassink@ziggo.nl>
+petiosizewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+vicii-chip-model.h;Daniel Kahlin <daniel@kahlin.net>
+initcmdline.h;Andreas Boose <viceteam@t-online.de>
+petmodel.c;groepaz <groepaz@gmx.net>
+ciatimer.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+settings_snapshot.c;Bas Wassink <b.wassink@ziggo.nl>
+render-common.h;John Selck <graham@cruise.de>
+render-common.h;Andreas Boose <viceteam@t-online.de>
+fastsid.c;Teemu Rantanen <tvr@cs.hut.fi>
+fastsid.c;Michael Schwendt <sidplay@geocities.com>
+fastsid.c;Ettore Perazzoli <ettore@comm2000.it>
+petcolour.c;Olaf Seibert <rhialto@falu.nl>
+ted-timer.c;Andreas Boose <viceteam@t-online.de>
+archdep_mkdir.h;Bas Wassink <b.wassink@ziggo.nl>
+driveparallelcablewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+resources.h;Ettore Perazzoli <ettore@comm2000.it>
+resources.h;Andreas Boose <viceteam@t-online.de>
+vice_sdl.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+catweaselmkiii-unix-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+petiec.c;Daniel Sladic <sladic@eecg.toronto.edu>
+petiec.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+p00.c;Andreas Boose <viceteam@t-online.de>
+p00.c;Ettore Perazzoli <ettore@comm2000.it>
+actions-help.h;Bas Wassink <b.wassink@ziggo.nl>
+vicii-badline.c;Andreas Boose <viceteam@t-online.de>
+vicii-badline.c;Ettore Perazzoli <ettore@comm2000.it>
+fsdevice.c;Andreas Boose <viceteam@t-online.de>
+uistatusbar 2.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+mon_ui.c;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+cbm2memsnapshot.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+cbm2memsnapshot.c;Andreas Boose <viceteam@t-online.de>
+util.c;*  \author Ettore Perazzoli, Andreas Boose\n
+util.c;Ettore Perazzoli <ettore@comm2000.it>
+util.c;Andreas Boose <viceteam@t-online.de>
+util.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+blackbox4.h;groepaz <groepaz@gmx.net>
+vicii-cmdline-options 2.h;Ettore Perazzoli <ettore@comm2000.it>
+vicii-cmdline-options 2.h;Andreas Boose <viceteam@t-online.de>
+archdep_xdg.h;Bas Wassink <b.wassink@ziggo.nl>
+piacore.h;Jouko Valta <jopi@stekt.oulu.fi>
+piacore.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vicii-fetch 2.h;Andreas Boose <viceteam@t-online.de>
+vicii-fetch 2.h;Ettore Perazzoli <ettore@comm2000.it>
+menu_c64dtvhw.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+archdep_exit.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_exit.c;Blacky Stardust
+uimachinemenu.h;Marcus Sutton <loggedoubt@gmail.com>
+actions-datasette.h;Bas Wassink <b.wassink@ziggo.nl>
+raster-resources.h;Andreas Boose <viceteam@t-online.de>
+archdep_get_vice_machinedir.c;Bas Wassink <b.wassink@ziggo.nl>
+cia.h;*  \author Jouko Valta <jopi@stekt.oulu.fi>
+cia.h;*  \author Andre Fachat <fachat@physik.tu-chemnitz.de>
+cia.h;*  \author Andreas Boose <viceteam@t-online.de>
+tpicore.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+tpicore.c;Andreas Boose <viceteam@t-online.de>
+archdep_program_path.c;Bas Wassink <b.wassink@ziggo.nl>
+plus4speech.h;groepaz <groepaz@gmx.net>
+mouse_neos.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+tape-snapshot.h;Andreas Matthies <andreas.matthies@gmx.net>
+iec-c64exp.c;Andreas Boose <viceteam@t-online.de>
+driveramwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+delaep7x8.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+debugcart 2.h;groepaz <groepaz@gmx.net>
+settings_expert.c;Bas Wassink <b.wassink@ziggo.nl>
+uimon 3.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+vicii-color 2.h;John Selck <graham@cruise.de>
+rgcd.h;groepaz <groepaz@gmx.net>
+midi.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+driveidlemethodwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+wave6581.h;Michael Schwendt <sidplay@geocities.com>
+psid.c;Dag Lem <resid@nimrod.no>
+6510core.c;Ettore Perazzoli <ettore@comm2000.it>
+6510core.c;Andreas Boose <viceteam@t-online.de>
+plus4video.c;Andreas Boose <viceteam@t-online.de>
+spi-sdcard.h;Groepaz/Hitmen <groepaz@gmx.net>
+hvsc.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_speed.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_stat.h;Bas Wassink <b.wassink@ziggo.nl>
+render1x1rgbi.c;groepaz <groepaz@gmx.net> based on the pal renderers written by
+render1x1rgbi.c;John Selck <graham@cruise.de>
+uicart.h;Bas Wassink <b.wassink@ziggo.nl>
+ui.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+supergames.h;Andreas Boose <viceteam@t-online.de>
+uisettings.h;Bas Wassink <b.wassink@ziggo.nl>
+soundfragmentsizewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+vicii-phi1 2.c;Andreas Boose <viceteam@t-online.de>
+kernalrevisionwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+kernalrevisionwidget.c;Groepaz <groepaz@gmx.de>
+fsdevice-flush.h;Andreas Boose <viceteam@t-online.de>
+plus4aciawidget.c;Bas Wassink <b.wassink@ziggo.nl>
+finalplus.c;groepaz <groepaz@gmx.net>
+petvideo.c;Andreas Boose <viceteam@t-online.de>
+cw-unix-device.c;Andreas Boose <viceteam@t-online.de>
+cw-unix-device.c;Dirk Jadgmann <doj@cubic.org>
+cw-unix-device.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20ieeevia.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vic20ieeevia.h;Andreas Boose <viceteam@t-online.de>
+magicdesk128.c;groepaz <groepaz@gmx.net>
+printeremulationtypewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+artstudiodrv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+artstudiodrv.c;groepaz <groepaz@gmx.net>
+ted-sound.h;Andreas Boose <viceteam@t-online.de>
+ted-sound.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+actions-settings.c;Bas Wassink <b.wassink@ziggo.nl>
+soundsampleratewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+scpu64gluelogic.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+fullscreen.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+serial-iec-bus.h;Andreas Boose <viceteam@t-online.de>
+mon_assemble.h;Andreas Boose <viceteam@t-online.de>
+mon_assemble.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+diskimage.h;Andreas Boose <viceteam@t-online.de>
+reu.h;Andreas Boose <viceteam@t-online.de>
+vicii-resources 2.c;Andreas Boose <viceteam@t-online.de>
+vicii-resources 2.c;Ettore Perazzoli <ettore@comm2000.it>
+uiactionbutton.h;Bas Wassink <b.wassink@ziggo.nl>
+c64memrom.c;Andreas Boose <viceteam@t-online.de>
+menu_joystick.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_joystick.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_cbmfont.h;Bas Wassink <b.wassink@ziggo.nl>
+extendimagedialog.h;groepaz <groepaz@gmx.net>
+archdep_program_name.c;Bas Wassink <b.wassink@ziggo.nl>
+socketdrv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_isepic.h;Bas Wassink <b.wassink@ziggo.nl>
+via.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+via.h;Andreas Boose <viceteam@t-online.de>
+via.h;Olaf Seibert <rhialto@falu.nl>
+final.c;Andreas Boose <viceteam@t-online.de>
+final.c;groepaz <groepaz@gmx.net>
+cbm5x0-snapshot.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+cbm5x0-snapshot.c;Andreas Boose <viceteam@t-online.de>
+magicvoice.h;groepaz <groepaz@gmx.net>
+mikroass.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_screenshot.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+debugcart 6.h;groepaz <groepaz@gmx.net>
+cw-win32-pci.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64dtv-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+render2x2rgbi.c;groepaz <groepaz@gmx.net> based on the pal renderers written by
+render2x2rgbi.c;John Selck <graham@cruise.de>
+glue1571.c;Andreas Boose <viceteam@t-online.de>
+gmod3.c;groepaz <groepaz@gmx.net>
+vic20romset.c;Andreas Boose <viceteam@t-online.de>
+plus4.c;Andreas Boose <viceteam@t-online.de>
+plus4.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+minipaintdrv.c;groepaz <groepaz@gmx.net>
+screenshot.h;Andreas Boose <viceteam@t-online.de>
+screenshot.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mon_register6809.c;Olaf Seibert <rhialto@falu.nl>
+filechooserhelpers.h;Bas Wassink <b.wassink@ziggo.nl>
+vic-color.h;John Selck <graham@cruise.de>
+mon_drive.h;Andreas Boose <viceteam@t-online.de>
+clockport-rrnet.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+sampler2bit.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+romsetmanagerwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+raster-line.c;Andreas Boose <viceteam@t-online.de>
+raster-line.c;Ettore Perazzoli <ettore@comm2000.it>
+resourcenumericstring.c;Bas Wassink <b.wassink@ziggo.nl>
+uiactions.c;Bas Wassink <b.wassink@ziggo.nl>
+sid-resources.c;Teemu Rantanen <tvr@cs.hut.fi>
+sid-resources.c;Ettore Perazzoli <ettore@comm2000.it>
+sid-resources.c;Andreas Boose <viceteam@t-online.de>
+sid-resources.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_file_exists.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_default_autostart_disk_image_file_name.h;Bas Wassink <b.wassink@ziggo.nl>
+soundbsp.cc;Marcus Sutton <loggedoubt@gmail.com>
+plus4model.c;groepaz <groepaz@gmx.net>
+menu_jam.h;groepaz <groepaz@gmx.net>
+mididevicewidget.c;groepaz <groepaz@gmx.net>
+cbm5x0cia1.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vicii-timing.h;Andreas Boose <viceteam@t-online.de>
+fsdevice-read.c;Andreas Boose <viceteam@t-online.de>
+cbmimage.c;Andreas Boose <viceteam@t-online.de>
+t6721.h;groepaz <groepaz@gmx.net>
+sldb.c;Bas Wassink <b.wassink@ziggo.nl>
+userport_diag_586220_harness.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+output-graphics.h;Andreas Boose <viceteam@t-online.de>
+settings_rexramfloppy.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_sanitize_filename.c;Bas Wassink <b.wassink@ziggo.nl>
+fsimage-probe.h;Andreas Boose <viceteam@t-online.de>
+rtc.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+clipboard.c;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+clipboard.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_finalexpansion.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_signals.h;Ettore Perazzoli <ettore@comm2000.it>
+archdep_signals.h;Andreas Boose <viceteam@t-online.de>
+archdep_signals.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_signals.h;Bas Wassink <b.wassink@ziggo.nl>
+driver-select.c;Andreas Boose <viceteam@t-online.de>
+vic20via1.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vic20via1.c;Ettore Perazzoli <ettore@comm2000.it>
+vic20via1.c;Andreas Boose <viceteam@t-online.de>
+fsimage-p64.h;Benjamin 'BeRo' Rosseaux <benjamin@rosseaux.com>
+funplay.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+wave8580.h;Michael Schwendt <sidplay@geocities.com>
+video.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+video.c;Michael C. Martin <mcmartin@gmail.com>
+statusbarspeedwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_create_user_config_dir.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_default_hotkey_file_name.h;Bas Wassink <b.wassink@ziggo.nl>
+bisplus.c;groepaz <groepaz@gmx.net>
+drean.h;groepaz <groepaz@gmx.net>
+bq4830y.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+petpia2.c;Jouko Valta <jopi@stekt.oulu.fi>
+petpia2.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+output-select.c;Andreas Boose <viceteam@t-online.de>
+uimenu 2.c;Bas Wassink <b.wassink@ziggo.nl>
+uimenu 2.c;Marcus Sutton <loggedoubt@gmail.com>
+vicii-draw.h;Ettore Perazzoli <ettore@comm2000.it>
+vicii-draw.h;Andreas Boose <viceteam@t-online.de>
+sampler.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+hs-unix-linux.c;Simon White <sidplay2@yahoo.com>
+hs-unix-linux.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_dir.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_dir.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_dir.h;Andreas Boose <viceteam@t-online.de>
+drivecpu.h;Ettore Perazzoli <ettore@comm2000.it>
+drivecpu.h;Andreas Boose <viceteam@t-online.de>
+c64cia1.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c64cia1.c;Ettore Perazzoli <ettore@comm2000.it>
+c64cia1.c;Andreas Boose <viceteam@t-online.de>
+c64cia1.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+comal80.h;groepaz <groepaz@gmx.net>
+plus4pio2.c;Andreas Boose <viceteam@t-online.de>
+vsidui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vsidui.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_sound.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4memlimit.h;Andreas Boose <viceteam@t-online.de>
+debugcart.h;groepaz <groepaz@gmx.net>
+sounddriverwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+rawnetarch_win32.c;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+raster-snapshot.c;David Hogan <david.q.hogan@gmail.com>
+settings_megacart.h;Bas Wassink <b.wassink@ziggo.nl>
+cbm2video.c;Andreas Boose <viceteam@t-online.de>
+userport_rtc_58321a.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+lightpendrv.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+gtk.h;David Hogan <david.q.hogan@gmail.com>
+vic20model.c;groepaz <groepaz@gmx.net>
+uidatasette.h;Michael C. Martin <mcmartin@gmail.com>
+archdep_tick.h;David Hogan <david.q.hogan@gmail.com>
+x128_ui.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+x128_ui.c;arco van den Heuvel <blackystardust68@yahoo.com>
+menu_help.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_help.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+machine.h;Ettore Perazzoli <ettore@comm2000.it>
+machine.h;Andreas Boose <viceteam@t-online.de>
+findpath.c;Tomi Ollila <Tomi.Ollila@tfi.net>
+menu_common.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_common.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_boot_path.c;Bas Wassink <b.wassink@ziggo.nl>
+c64dtvcpu.c;M.Kiesel <mayne@users.sourceforge.net>
+c64dtvcpu.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+pethrewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+mon_assembleR65C02.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic-cycle.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+archdep_access.h;Bas Wassink <b.wassink@ziggo.nl>
+keyboard.c;Andreas Boose <viceteam@t-online.de>
+keyboard.c;Ettore Perazzoli <ettore@comm2000.it>
+keyboard.c;Jouko Valta <jopi@stekt.oulu.fi>
+keyboard.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+keyboard.c;Bernhard Kuhn <kuhn@eikon.e-technik.tu-muenchen.de>
+keyboard.c;groepaz <groepaz@gmx.net>
+vicii-fetch.h;Andreas Boose <viceteam@t-online.de>
+vicii-fetch.h;Ettore Perazzoli <ettore@comm2000.it>
+archdep_get_vice_docsdir.h;Bas Wassink <b.wassink@ziggo.nl>
+actions-media.c;Bas Wassink <b.wassink@ziggo.nl>
+kbddebugwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_chdir.h;Bas Wassink <b.wassink@ziggo.nl>
+vic-draw.c;Ettore Perazzoli <ettore@comm2000.it>
+vic-draw.c;Daniel Kahlin <daniel@kahlin.net>
+c64exp-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+tpid.h;Andreas Boose <viceteam@t-online.de>
+mon_assemble6809.c;Olaf Seibert <rhialto@falu.nl>
+mon_command.c;Daniel Sladic <sladic@eecg.toronto.edu>
+mon_command.c;Ettore Perazzoli <ettore@comm2000.it>
+mon_command.c;Andreas Boose <viceteam@t-online.de>
+actionreplay3.h;Andreas Boose <viceteam@t-online.de>
+menu_joyport.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+cia1571d.c;Andreas Boose <viceteam@t-online.de>
+crtc-color.h;groepaz <groepaz@gmx.net>
+serial-iec-lib.c;Andreas Boose <viceteam@t-online.de>
+settings_soundchip.c;Bas Wassink <b.wassink@ziggo.nl>
+vdrive-command.c;Andreas Boose <viceteam@t-online.de>
+c128model.h;groepaz <groepaz@gmx.net>
+petromset.c;Andreas Boose <viceteam@t-online.de>
+ted-draw.h;Andreas Boose <viceteam@t-online.de>
+ted-draw.h;Ettore Perazzoli <ettore@comm2000.it>
+archdep_sound.h;David Hogan <david.q.hogan@gmail.com>
+rrnetmk3.h;Groepaz <groepaz@gmx.net>
+c64tpi.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+c64tpi.h;Andreas Boose <viceteam@t-online.de>
+portaudio_drv.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+version.h.in;Andreas Boose <viceteam@t-online.de>
+uidiskattach.h;Bas Wassink <b.wassink@ziggo.nl>
+ppmdrv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_rename.h;Bas Wassink <b.wassink@ziggo.nl>
+printeroutputmodewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+autostart.h;Teemu Rantanen <tvr@cs.hut.fi>
+autostart.h;Ettore Perazzoli <ettore@comm2000.it>
+autostart.h;Andreas Boose <viceteam@t-online.de>
+archdep_startup_log_error.c;Bas Wassink <b.wassink@ziggo.nl>
+types.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mc6821core.h;groepaz <groepaz@gmx.net>
+main 3.c;Bas Wassink <b.wassink@ziggo.nl>
+petvideosizewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+tcbm.h;Andreas Boose <viceteam@t-online.de>
+ps-unix.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+scpu64-snapshot.c;Kajtar Zsolt <soci@c64.rulez.org>
+scpu64-snapshot.c;Andreas Boose <viceteam@t-online.de>
+scpu64-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+popupmenu.h;Bas Wassink <b.wassink@ziggo.nl>
+simonsbasic.h;Groepaz <groepaz@gmx.net>
+c64dtvmemsnapshot.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+archdep_default_fliplist_file_name.h;Bas Wassink <b.wassink@ziggo.nl>
+lightpen.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+lightpen.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+fsdevice-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+archdep_tmpnam.h;Bas Wassink <b.wassink@ziggo.nl>
+ser-eeprom.c;Groepaz/Hitmen <groepaz@gmx.net>
+georam.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cartimagewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+opencbmlib.c;Andreas Boose <viceteam@t-online.de>
+opencbmlib.c;Christian Vogelgsang <chris@vogelgsang.org>
+shortbus_etfe.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uimon.c;Fabrizio Gennari <fabrizio.ge@tiscali.it>
+uimon.c;David Hogan <david.q.hogan@gmail.com>
+mixerwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+sid-snapshot.c;Teemu Rantanen <tvr@cs.hut.fi>
+sid-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+sid-snapshot.c;Andreas Boose <viceteam@t-online.de>
+sid-snapshot.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mon_register6502dtv.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+c128.c;Andreas Boose <viceteam@t-online.de>
+c128.c;Ettore Perazzoli <ettore@comm2000.it>
+c128.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c128.c;Jouko Valta <jopi@stekt.oulu.fi>
+uimon-fallback.h;groepaz <groepaz@gmx.net>
+c64memsnapshot.h;Andreas Boose <viceteam@t-online.de>
+icon.h;groepaz <groepaz@gmx.net>
+soundfs.c;Teemu Rantanen <tvr@cs.hut.fi>
+drivecpu65c02.c;Kajtar Zsolt <soci@c64.rulez.org>
+warpspeed.c;groepaz <groepaz@gmx.net>
+userport_joystick.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vdrive-iec.c;Andreas Boose <viceteam@t-online.de>
+cbm2rammappingwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vdc-color.h;groepaz <groepaz@gmx.net>
+drivemem.h;Andreas Boose <viceteam@t-online.de>
+uivideo.c;Bas Wassink <b.wassink@ziggo.nl>
+petacia1.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+realimage.c;Andreas Boose <viceteam@t-online.de>
+iec-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+archdep_rmdir.h;Bas Wassink <b.wassink@ziggo.nl>
+hs-win32-dll.c;Andreas Boose <viceteam@t-online.de>
+hs-win32-dll.c;HardSID Support <support@hardsid.com>
+hs-win32-dll.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+petcolourgraphicswidget.c;Bas Wassink <b.wassink@ziggo.nl>
+render1x1.h;John Selck <graham@cruise.de>
+render1x1.h;Andreas Boose <viceteam@t-online.de>
+tap.c;Andreas Boose <viceteam@t-online.de>
+tap.c;David Hansel <david@hansels.net>
+settings_ethernet.c;Bas Wassink <b.wassink@ziggo.nl>
+c64dtvflash.h;Daniel Kahlin <daniel@kahlin.net>
+traps.c;Teemu Rantanen <tvr@cs.hut.fi>
+traps.c;Jarkko Sonninen <sonninen@lut.fi>
+traps.c;Ettore Perazzoli <ettore@comm2000.it>
+traps.c;Andreas Boose <viceteam@t-online.de>
+uihotkeysload.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_win32.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_dqbb.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_userport.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+viewport.h;Andreas Boose <viceteam@t-online.de>
+viewport.h;Ettore Perazzoli <ettore@comm2000.it>
+resourcespinbutton.c;Bas Wassink <b.wassink@ziggo.nl>
+ui 3.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+ui 3.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+ui 3.h;Bas Wassink <b.wassink@ziggo.nl>
+vicii-cmdline-options.c;Ettore Perazzoli <ettore@comm2000.it>
+vicii-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+vicii-cmdline-options.c;Gunnar Ruthenberg <Krill.Plush@gmail.com>
+gfxoutput.h;Andreas Boose <viceteam@t-online.de>
+gfxoutput.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+wdc65816.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_tape.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_tape.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+digiblaster.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+drv-nl10.h;David Hansel <david@hansels.net>
+sid.c;Teemu Rantanen <tvr@cs.hut.fi>
+sid.c;Michael Schwendt <sidplay@geocities.com>
+sid.c;Ettore Perazzoli <ettore@comm2000.it>
+sid.c;Dag Lem <resid@nimrod.no>
+sid.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64dtvmem.c;M.Kiesel <mayne@users.sourceforge.net>
+c64dtvmem.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+c64dtvmem.c;Daniel Kahlin <daniel@kahlin.net>
+psid 2.c;Bas Wassink <b.wassink@ziggo.nl>
+vicefeatures.c;groepaz <groepaz@gmx.net>
+vicefeatures.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+scpu64-cmdline-options.h;Kajtar Zsolt <soci@c64.rulez.org>
+vic-snapshot.h;Ettore Perazzoli <ettore@comm2000.it>
+resourcehelpers.h;Bas Wassink <b.wassink@ziggo.nl>
+statusbarrecordingwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+video-render.c;John Selck <graham@cruise.de>
+video-render.c;Dag Lem <resid@nimrod.no>
+petmemsnapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+petmemsnapshot.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+petmemsnapshot.c;Andreas Boose <viceteam@t-online.de>
+video-resources.h;John Selck <graham@cruise.de>
+flash-trap.h;Daniel Kahlin <daniel@kahlin.net>
+vic20ieeevia2.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+vic20ieeevia2.c;Andreas Boose <viceteam@t-online.de>
+raster-sprite.c;Ettore Perazzoli <ettore@comm2000.it>
+cbm2tpi1.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+cbm2tpi1.c;Andreas Boose <viceteam@t-online.de>
+videoarch 2.h;Ettore Perazzoli
+videoarch 2.h;Teemu Rantanen <tvr@cs.hut.fi>
+videoarch 2.h;Andreas Boose <viceteam@t-online.de>
+videoarch 2.h;Michael C. Martin <mcmartin@gmail.com>
+vsyncarch 2.c;Dag Lem <resid@nimrod.no>
+archdep_getcwd.h;Bas Wassink <b.wassink@ziggo.nl>
+c64dtvui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64dtvui.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_user_cache_path.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_real_path.c;Michael C. Martin <mcmartin@gmail.com>
+raster-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+init.c;Andreas Boose <viceteam@t-online.de>
+init.c;Ettore Perazzoli <ettore@comm2000.it>
+menu_media.c;Bas Wassink <b.wassink@ziggo.nl>
+kbd 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+kbd 2.c;Michael C. Martin <mcmartin@gmail.com>
+kbd 2.c;Oliver Schaertel
+kbd 2.c;pottendo <pottendo@gmx.net>
+kbd 2.c;Bas Wassink <b.wassink@ziggo.nl>
+soundsdl.c;Teemu Rantanen <tvr@cs.hut.fi>
+soundsdl.c;Daniel Aarno <macbishop@users.sourceforge.net>
+soundsdl.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+archdep_home_path.h;Bas Wassink <b.wassink@ziggo.nl>
+fixpoint.h;Andreas Dehmel <dehmel@forwiss.tu-muenchen.de>
+warpspeed128.h;groepaz <groepaz@gmx.net>
+cwdwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+mainviccpu.c;Ettore Perazzoli <ettore@comm2000.it>
+mainviccpu.c;Andreas Boose <viceteam@t-online.de>
+pethre.h;Olaf 'Rhialto' Seibert <rhialto@falu.nl>
+mouse_paddle.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mouse_paddle.h;Andreas Boose <viceteam@t-online.de>
+c64rsuser.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+jacint1mb.c;groepaz <groepaz@gmx.net>
+vic20-midi.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+vic20-midi.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-cycle.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+vicii-cycle.c;Daniel Kahlin <daniel@kahlin.net>
+vice-event.h;Andreas Boose <viceteam@t-online.de>
+vdc-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+vdc-snapshot.c;Markus Brenner <markus@brenner.de>
+vdc-snapshot.c;Andreas Boose <viceteam@t-online.de>
+plus4rom.c;Andreas Boose <viceteam@t-online.de>
+plus4rom.c;Tibor Biczo <crown@axelero.hu>
+drv-1520.c;Olaf Seibert <rhialto@falu.nl>
+info.c;Ettore Perazzoli <ettore@comm2000.it>
+info.c;Andreas Boose <viceteam@t-online.de>
+info.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_ethernet_available.h;Bas Wassink <b.wassink@ziggo.nl>
+ieeerom.c;Andreas Boose <viceteam@t-online.de>
+socketimpl.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+wcwidth.h;Bas Wassink <b.wassink@ziggo.nl>
+cbm2acia1.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c64dtvmodel.h;groepaz <groepaz@gmx.net>
+driverpmwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_cbm2hw.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-color.c;John Selck <graham@cruise.de>
+plus4memorysizewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_sampler.c;Bas Wassink <b.wassink@ziggo.nl>
+vic20memsnapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+vic20memsnapshot.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vic20memsnapshot.c;Andreas Boose <viceteam@t-online.de>
+mon_disassemble.c;Daniel Sladic <sladic@eecg.toronto.edu>
+mon_disassemble.c;Ettore Perazzoli <ettore@comm2000.it>
+mon_disassemble.c;Andreas Boose <viceteam@t-online.de>
+mon_disassemble.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+tape-internal.c;Andreas Boose <viceteam@t-online.de>
+delaep256.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+rexep256.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+iecrom.h;Andreas Boose <viceteam@t-online.de>
+mmcreplay.h;Groepaz/Hitmen <groepaz@gmx.net>
+raster-line-changes-sprite.c;Andreas Boose <viceteam@t-online.de>
+raster-line-changes-sprite.c;Ettore Perazzoli <ettore@comm2000.it>
+partner128.h;groepaz <groepaz@gmx.net>
+cbm2tpi.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+cbm2tpi.h;Andreas Boose <viceteam@t-online.de>
+uitypes.h;Bas Wassink <b.wassink@ziggo.nl>
+snapshot64.c;Groepaz <groepaz@gmx.net>
+mon_memmap.h;Hannu Nuotio <nojoopa@users.sourceforge.net>
+plus4memrom.h;Andreas Boose <viceteam@t-online.de>
+easyflash.c;ALeX Kazik <alx@kazik.de>
+easyflash.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+scpu64model.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+scpu64model.c;groepaz <groepaz@gmx.net>
+scpu64model.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_pethw.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm5x0-stubs.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+partner64.c;groepaz <groepaz@gmx.net>
+sidmodelwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+iec-plus4exp.c;Andreas Boose <viceteam@t-online.de>
+uihotkeyssave.c;Bas Wassink <b.wassink@ziggo.nl>
+uifonts.h;groepaz <groepaz@gmx.net>
+asm6502.c;Ettore Perazzoli <ettore@comm2000.it>
+asm6502.c;Andreas Boose <viceteam@t-online.de>
+scpu64rom.h;Kajtar Zsolt <soci@c64.rulez.org>
+romset.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+romset.h;Andreas Boose <viceteam@t-online.de>
+plus4memhannes256k.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+petdatasette.c;Andreas Boose <viceteam@t-online.de>
+petdatasette.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+userportdeviceswidget.c;Bas Wassink <b.wassink@ziggo.nl>
+c128machinetypewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+tapeport.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c128romset.c;Andreas Boose <viceteam@t-online.de>
+kbd.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_usleep.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_usleep.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_rs232.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+vicii-timing 2.c;Andreas Boose <viceteam@t-online.de>
+vicii-timing 2.c;Gunnar Ruthenberg <Krill.Plush@gmail.com>
+mon_assemblez80.c;Andreas Boose <viceteam@t-online.de>
+menu_scpu64hw.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_ram.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+videoarch.h;Ettore Perazzoli
+videoarch.h;Teemu Rantanen <tvr@cs.hut.fi>
+videoarch.h;Andreas Boose <viceteam@t-online.de>
+videoarch.h;Michael C. Martin <mcmartin@gmail.com>
+plus4io.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+jamactionwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_c64cart.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_plus4hw.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c128rom.h;Andreas Boose <viceteam@t-online.de>
+archdep_get_current_drive.h;Unknown (probably copied from old SDL code)
+archdep_icon_path.c;Bas Wassink <b.wassink@ziggo.nl>
+c128-snapshot.h;Andreas Boose <viceteam@t-online.de>
+prophet64.c;Groepaz <groepaz@gmx.net>
+sounddummy.c;Teemu Rantanen <tvr@cs.hut.fi>
+vic20cart.h;Daniel Kahlin <daniel@kahlin.net>
+archdep_path_is_relative.c;Bas Wassink <b.wassink@ziggo.nl>
+printeroutputdevicewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+t64.h;Ettore Perazzoli <ettore@comm2000.it>
+t64.h;Andreas Boose <viceteam@t-online.de>
+scpu64settingswidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vsid-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+vsid-cmdline-options.c;Ettore Perazzoli <ettore@comm2000.it>
+vsid-cmdline-options.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+driverom.c;Andreas Boose <viceteam@t-online.de>
+petreuwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+hotkeys.h;Bas Wassink <b.wassink@ziggo.nl>
+sfx_soundexpander.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+interface-userport.h;Andreas Boose <viceteam@t-online.de>
+interface-userport.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+kbdbuf.h;Ettore Perazzoli <ettore@comm2000.it>
+kbdbuf.h;Andreas Boose <viceteam@t-online.de>
+bmpdrv.h;Andreas Boose <viceteam@t-online.de>
+settings_gmod2.h;Bas Wassink <b.wassink@ziggo.nl>
+c64.h;*  \author Andreas Boose <viceteam@t-online.de>
+c64.h;*  \author Ettore Perazzoli <ettore@comm2000.it>
+c64.h;*  \author Marco van den Heuvel <blackystardust68@yahoo.com>
+pci-unix-drv.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+actions-display.h;Bas Wassink <b.wassink@ziggo.nl>
+actionreplay.h;Andreas Boose <viceteam@t-online.de>
+plus4acia.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+plus4acia.h;Andreas Boose <viceteam@t-online.de>
+plus4acia.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vsidplaylistadddialog.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep 3.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_drive.h;Bas Wassink <b.wassink@ziggo.nl>
+zippcode48.c;groepaz <groepaz@gmx.net>
+archdep_default_joymap_file_name.c;Bas Wassink <b.wassink@ziggo.nl>
+multijoy.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+ramcart.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+uimachinewindow.h;Marcus Sutton <loggedoubt@gmail.com>
+joystick.h;Andreas Boose <viceteam@t-online.de>
+joystick.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+dolphindos3.c;Andreas Boose <viceteam@t-online.de>
+dolphindos3.c;groepaz <groepaz@gmx.net>
+petmiscwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+drivemodelwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+console 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ethernetcart.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_video.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+resid-dtv.cc;Teemu Rantanen <tvr@cs.hut.fi>
+resid-dtv.cc;Dag Lem <resid@nimrod.no>
+resid-dtv.cc;Andreas Boose <viceteam@t-online.de>
+speedwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+vicii-clock-stretch.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64cart.h;Andreas Boose <viceteam@t-online.de>
+koaladrv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+koaladrv.c;groepaz <groepaz@gmx.net>
+drv-raw.c;Andreas Boose <viceteam@t-online.de>
+drv-raw.c;groepaz <groepaz@gmx.net>
+settings_ds12c887.h;Bas Wassink <b.wassink@ziggo.nl>
+lamelib.h;Christian Vogelgsang <chris@vogelgsang.org>
+c64_256k.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_gmod2c128.h;Bas Wassink <b.wassink@ziggo.nl>
+hardsid-unix-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+sounddx.c;Tibor Biczo <crown@mail.matav.hu>
+sounddx.c;Ettore Perazzoli <ettore@comm2000.it>
+sounddx.c;Andreas Matthies <andreas.matthies@gmx.net>
+sounddx.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+pet-stubs.c;groepaz <groepaz@gmx.net>
+c64iec.h;Andreas Boose <viceteam@t-online.de>
+c64iec.h;Daniel Sladic <sladic@eecg.toronto.edu>
+c64iec.h;Ettore Perazzoli <ettore@comm2000.it>
+c64iec.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c64iec.h;Teemu Rantanen <tvr@cs.hut.fi>
+bugs.h;Bas Wassink <b.wassink@ziggo.nl>
+retroreplay.h;Andreas Boose <viceteam@t-online.de>
+plus4memcsory256k.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+petramawidget.c;Bas Wassink <b.wassink@ziggo.nl>
+petramawidget.c;Andre Fachat <fachat@web.de>
+ieee-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+archdep_extra_title_text.c;Bas Wassink <b.wassink@ziggo.nl>
+actions-vsid.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_remove.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_vic20cart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_settings.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+iec128dcr-resources.h;Andreas Boose <viceteam@t-online.de>
+c64-snapshot.h;Andreas Boose <viceteam@t-online.de>
+ted-color.h;John Selck <graham@cruise.de>
+petprinter.c;Andreas Boose <viceteam@t-online.de>
+debug_gtk3.h;Bas Wassink <b.wassink@ziggo.nl>
+vicii-draw 2.h;Ettore Perazzoli <ettore@comm2000.it>
+vicii-draw 2.h;Andreas Boose <viceteam@t-online.de>
+vic20-snapshot.h;Andreas Boose <viceteam@t-online.de>
+crtc-resources.h;Andreas Boose <viceteam@t-online.de>
+shortbus.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+dynlib.h;Christian Vogelgsang <chris@vogelgsang.org>
+archdep_close.h;Bas Wassink <b.wassink@ziggo.nl>
+c128memlimit.h;Andreas Boose <viceteam@t-online.de>
+mon_breakpoint.h;Andreas Boose <viceteam@t-online.de>
+bbrtc.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+actions-joystick.c;Bas Wassink <b.wassink@ziggo.nl>
+iec128dcrrom.h;Andreas Boose <viceteam@t-online.de>
+plus4mem.h;Andreas Boose <viceteam@t-online.de>
+ps-win32-dll.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_drive_rom.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+petpia.h;Jouko Valta <jopi@stekt.oulu.fi>
+petpia.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+uimedia.h;Bas Wassink <b.wassink@ziggo.nl>
+c64parallel.c;Andreas Boose <viceteam@t-online.de>
+c64parallel.c;groepaz <groepaz@gmx.net>
+memiec.h;Andreas Boose <viceteam@t-online.de>
+fsimage-create.c;Andreas Boose <viceteam@t-online.de>
+diskcontents-block.c;Ettore Perazzoli <ettore@comm2000.it>
+diskcontents-block.c;Andreas Boose <viceteam@t-online.de>
+diskcontents-block.c;Tibor Biczo <crown@mail.matav.hu>
+final3.c;Andreas Boose <viceteam@t-online.de>
+final3.c;groepaz <groepaz@gmx.net>
+turtlegraphics.h;groepaz <groepaz@gmx.net>
+ide64.h;Kajtar Zsolt <soci@c64.rulez.org>
+exos.h;groepaz <groepaz@gmx.net>
+archdep_fix_permissions.c;Bas Wassink <b.wassink@ziggo.nl>
+soundbuffersizewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4ui.h;Andreas Boose <viceteam@t-online.de>
+cw-unix-pci.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+hardsid.c;Andreas Boose <viceteam@t-online.de>
+hardsid.c;HardSID Support <support@hardsid.com>
+hardsid.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vdrive-dir.c;Andreas Boose <viceteam@t-online.de>
+vdrive-dir.c;Ingo Korb <ingo@akana.de>
+archdep_spawn.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_spawn.h;Bas Wassink <b.wassink@ziggo.nl>
+cx21.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+rawnetarch_unix.c;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+rawnetarch_unix.c;Bas Wassink <b.wassink@ziggo.nl>
+cmdline.h;Ettore Perazzoli <ettore@comm2000.it>
+cmdline.h;Andreas Boose <viceteam@t-online.de>
+archdep_is_windows_nt.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+drv-ascii.h;Andreas Boose <viceteam@t-online.de>
+drv-ascii.h;groepaz <groepaz@gmx.net>
+render1x1pal.h;John Selck <graham@cruise.de>
+render1x1pal.h;Andreas Boose <viceteam@t-online.de>
+rotation.h;Andreas Boose <viceteam@t-online.de>
+vdc-resources.c;Andreas Boose <viceteam@t-online.de>
+vicii-snapshot.h;Ettore Perazzoli <ettore@comm2000.it>
+vicii-snapshot.h;Andreas Boose <viceteam@t-online.de>
+settings_mmc64.c;Bas Wassink <b.wassink@ziggo.nl>
+drivedoswidget.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_ramreset.h;Bas Wassink <b.wassink@ziggo.nl>
+vicii-irq 2.c;Andreas Boose <viceteam@t-online.de>
+vicii-irq 2.c;Ettore Perazzoli <ettore@comm2000.it>
+datasette-sound.c;Fabrizio Gennari <fabrizio.ge@tiscali.it>
+menu_ethernetcart.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_ethernetcart.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+rawnetarch.c;Bas Wassink <b.wassink@ziggo.nl>
+rawnetarch.c;Alceste Scalas <alceste.scalas@gmail.com>
+settings_ieeeflash64.h;Christopher Bongaarts <cab@bongalow.net>
+c128ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c128ui.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_filename_parameter.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_is_haiku.c;groepaz <groepaz@gmx.net>
+uicmdline.c;Bas Wassink <b.wassink@ziggo.nl>
+tcbmrom.h;Andreas Boose <viceteam@t-online.de>
+scpu64ui 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+scpu64ui 2.c;Bas Wassink <b.wassink@ziggo.nl>
+kbdmappingwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+charset.h;Jouko Valta <jopi@stekt.oulu.fi>
+charset.h;Andreas Boose <viceteam@t-online.de>
+sysfile.c;Ettore Perazzoli <ettore@comm2000.it>
+via1d1541.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+via1d1541.h;Andreas Boose <viceteam@t-online.de>
+menu_petcart.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+attach.h;Andreas Boose <viceteam@t-online.de>
+vic20bus.c;Andreas Boose <viceteam@t-online.de>
+mainc64cpu.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+render_queue.h;David Hogan <david.q.hogan@gmail.com>
+c64gluelogic.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+dirmenupopup.c;*  \author Bas Wassink <b.wassink@ziggo.nl>
+dirmenupopup.c;*  \author Groepaz (groepaz@gmx.de>
+archdep_ftello.h;Bas Wassink <b.wassink@ziggo.nl>
+videomodelwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+m93c86.c;Groepaz/Hitmen <groepaz@gmx.net>
+clockport.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+m3u.c;Bas Wassink <b.wassink@ziggo.nl>
+vic20export.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+selectdirectorydialog.c;Bas Wassink <b.wassink@ziggo.nl>
+tape_diag_586220_harness.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20-stubs.c;groepaz <groepaz@gmx.net>
+lastdir.c;Bas Wassink <b.wassink@ziggo.nl>
+scpu64mem.c;Kajtar Zsolt <soci@c64.rulez.org>
+scpu64mem.c;Andreas Boose <viceteam@t-online.de>
+scpu64mem.c;Ettore Perazzoli <ettore@comm2000.it>
+freezeframe.h;Groepaz <groepaz@gmx.net>
+vic-cmdline-options.h;Ettore Perazzoli <ettore@comm2000.it>
+drivesync.c;Andreas Boose <viceteam@t-online.de>
+snespad.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+resourceswitch.c;Bas Wassink <b.wassink@ziggo.nl>
+machine-bus.h;Andreas Boose <viceteam@t-online.de>
+pet-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+pet-snapshot.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+pet-snapshot.c;Andreas Boose <viceteam@t-online.de>
+ted-resources.c;Andreas Boose <viceteam@t-online.de>
+c128mem.c;Andreas Boose <viceteam@t-online.de>
+c128mem.c;Ettore Perazzoli <ettore@comm2000.it>
+c128mem.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+renderscale2x.c;Andreas Matthies <andreas.matthies@gmx.net>
+riot1d.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+riot1d.c;Andreas Boose <viceteam@t-online.de>
+cbm2bus.c;Andreas Boose <viceteam@t-online.de>
+vice_gtk3.h;Bas Wassink <b.wassink@ziggo.nl>
+rawfile.c;Andreas Boose <viceteam@t-online.de>
+freezeframe2.c;Groepaz <groepaz@gmx.net>
+soundoutputmodewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+maxbasic.c;groepaz <groepaz@gmx.net>
+ps2mouse.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+vdc-cmdline-options.h;Ettore Perazzoli <ettore@comm2000.it>
+vdc-cmdline-options.h;Markus Brenner <markus@brenner.de>
+vdc-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+gs.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64meminit.h;Andreas Boose <viceteam@t-online.de>
+c64meminit.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+petkeyboardtypewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+jamdialog.h;Bas Wassink <b.wassink@ziggo.nl>
+soundsun.c;Teemu Rantanen <tvr@cs.hut.fi>
+crtc-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+crtc-snapshot.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+archdep_expand_path.c;Bas Wassink <b.wassink@ziggo.nl>
+c128memrom.h;Andreas Boose <viceteam@t-online.de>
+archdep_get_hvsc_dir.h;Bas Wassink <b.wassink@ziggo.nl>
+plus256k.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64ui.c;Bas Wassink <b.wassink@ziggo.nl>
+ssi2001-win32-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+magiccart.c;groepaz <groepaz@gmx.net>
+uicompiletimefeatures.h;Bas Wassink <b.wassink@ziggo.nl>
+main 2.h;Andreas Boose <viceteam@t-online.de>
+mainlock.c;David Hogan <david.q.hogan@gmail.com>
+c64dtvmeminit.h;Daniel Kahlin <daniel@kahlin.net>
+c64dtvmeminit.h;Andreas Boose <viceteam@t-online.de>
+mon_memory.h;Andreas Boose <viceteam@t-online.de>
+archdep_user_config_path.h;Bas Wassink <b.wassink@ziggo.nl>
+gifdrv.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+sidsoundwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+c64dtv-resources.h;Andreas Boose <viceteam@t-online.de>
+video 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+video 2.c;Michael C. Martin <mcmartin@gmail.com>
+plus4exp-resources.c;Andreas Boose <viceteam@t-online.de>
+console_unix.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+console_unix.c;Andreas Boose <viceteam@t-online.de>
+archdep_get_runtime_info.h;Bas Wassink <b.wassink@ziggo.nl>
+vsid-debugcart.h;groepaz <groepaz@gmx.net>
+cpmcart.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2io.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_default_logger.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_default_logger.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_sound.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+scpu64memsnapshot.h;Kajtar Zsolt <soci@c64.rulez.org>
+raster.h;Ettore Perazzoli <ettore@comm2000.it>
+raster.h;Andreas Boose <viceteam@t-online.de>
+color.h;Andreas Boose <viceteam@t-online.de>
+c64dtvsound.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+asmz80.c;Andreas Boose <viceteam@t-online.de>
+asmz80.c;groepaz <groepaz@gmx.net>
+kingsoft.c;Groepaz/Hitmen <groepaz@gmx.net>
+kbdlayoutwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_require_vkbd.c;groepaz <groepaz@gmx.net>
+r65c02.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+sampler4bit.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+render1x2rgbi.c;groepaz <groepaz@gmx.net> based on the pal renderers written by
+render1x2rgbi.c;John Selck <graham@cruise.de>
+c64dtviec.c;Andreas Boose <viceteam@t-online.de>
+c64dtviec.c;Daniel Sladic <sladic@eecg.toronto.edu>
+c64dtviec.c;Ettore Perazzoli <ettore@comm2000.it>
+c64dtviec.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c64dtviec.c;Teemu Rantanen <tvr@cs.hut.fi>
+vicii-resources.h;Andreas Boose <viceteam@t-online.de>
+vicii-resources.h;Ettore Perazzoli <ettore@comm2000.it>
+userport_rtc_ds1307.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4digiblasterwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+dtl-basic-dongle.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+userport_wic64.h;groepaz <groepaz@gmx.net>
+plus4memsnapshot.h;Andreas Boose <viceteam@t-online.de>
+crtpreviewwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+c64rom.c;Andreas Boose <viceteam@t-online.de>
+archdep_open_default_log_file.c;Bas Wassink <b.wassink@ziggo.nl>
+uidata.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_monitor.h;Bas Wassink <b.wassink@ziggo.nl>
+resourceentry.c;Bas Wassink <b.wassink@ziggo.nl>
+tapecart.h;Ingo Korb <ingo@akana.de>
+archdep_default_rtc_file_name.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4romset.c;Andreas Boose <viceteam@t-online.de>
+base.c;Bas Wassink <b.wassink@ziggo.nl>
+mmc64.c;Markus Stehr <bastetfurry@ircnet.de>
+mmc64.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mmc64.c;Groepaz <groepaz@gmx.net>
+settings_easyflash.h;Bas Wassink <b.wassink@ziggo.nl>
+supercard.c;groepaz <groepaz@gmx.net>
+driveimage.h;Andreas Boose <viceteam@t-online.de>
+pets.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+ted-snapshot.c;Andreas Boose <viceteam@t-online.de>
+ted-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+joyport_io_sim.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+crtc-mem.h;Ettore Perazzoli <ettore@comm2000.it>
+crtc-mem.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vsidtuneinfowidget.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_c128hw.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+signals.h;Andreas Boose <viceteam@t-online.de>
+vic20-resources.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vic20-resources.c;Andreas Boose <viceteam@t-online.de>
+drv-mps803.h;Andreas Boose <viceteam@t-online.de>
+actionreplay2.c;groepaz <groepaz@gmx.net>
+video-color.h;John Selck <graham@cruise.de>
+6510dtvcore.c;Ettore Perazzoli <ettore@comm2000.it>
+6510dtvcore.c;Andreas Boose <viceteam@t-online.de>
+keymap.c;Andreas Boose <viceteam@t-online.de>
+keymap.c;Ettore Perazzoli <ettore@comm2000.it>
+keymap.c;Jouko Valta <jopi@stekt.oulu.fi>
+keymap.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+keymap.c;Bernhard Kuhn <kuhn@eikon.e-technik.tu-muenchen.de>
+keymap.c;groepaz <groepaz@gmx.net>
+userport_spt_joystick.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+video-canvas.c;Andreas Boose <viceteam@t-online.de>
+expert.c;Andreas Boose <viceteam@t-online.de>
+expert.c;Nathan Huizinga <nathan.huizinga@chess.nl>
+expert.c;Groepaz <groepaz@gmx.net>
+ted-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+ted-cmdline-options.c;Ettore Perazzoli <ettore@comm2000.it>
+settings_ramlink.c;Bas Wassink <b.wassink@ziggo.nl>
+soundflac.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+contentpreviewwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+via1d2031.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+via1d2031.h;Andreas Boose <viceteam@t-online.de>
+widgethelpers.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_sfxsoundexpander.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_file_size.c;Bas Wassink <b.wassink@ziggo.nl>
+cbm5x0video.c;Andreas Boose <viceteam@t-online.de>
+megacart.h;Daniel Kahlin <daniel@kahlin.net>
+settings_ide64.h;Bas Wassink <b.wassink@ziggo.nl>
+fsdevice-close.c;Andreas Boose <viceteam@t-online.de>
+cbmfile.c;Andreas Boose <viceteam@t-online.de>
+mon_register.c;groepaz <groepaz@gmx.net>
+settings_io.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_current_dir.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_current_dir.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_current_dir.h;trikalio
+finalexpansion.c;Daniel Kahlin <daniel@kahlin.net>
+pci-beos-drv.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+userport_digimax.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+zaxxon.c;Andreas Boose <viceteam@t-online.de>
+zaxxon.c;Markus Brenner <markus@brenner.de>
+archdep_get_vice_drivesdir.c;Bas Wassink <b.wassink@ziggo.nl>
+keymap 2.h;Andreas Boose <viceteam@t-online.de>
+keymap 2.h;Ettore Perazzoli <ettore@comm2000.it>
+keymap 2.h;Tibor Biczo <crown@mail.matav.hu>
+keymap 2.h;groepaz <groepaz@gmx.net>
+mon_file.h;Andreas Boose <viceteam@t-online.de>
+hardsid-beos-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uidebug.h;Bas Wassink <b.wassink@ziggo.nl>
+vic20rsuser.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+cbm2-snapshot.h;Andreas Boose <viceteam@t-online.de>
+drive-resources.c;Andreas Boose <viceteam@t-online.de>
+resourceradiogroup.c;Bas Wassink <b.wassink@ziggo.nl>
+plus4datasette.c;Andreas Boose <viceteam@t-online.de>
+plus4datasette.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+hvscsettingswidget.c;Bas Wassink <b.wassink@ziggo.nl>
+drivewidgethelpers.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_defs.h;Bas Wassink <b.wassink@ziggo.nl>
+vicieee488widget.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_keyboard.c;Bas Wassink <b.wassink@ziggo.nl>
+vdc-mem.c;Markus Brenner   <markus@brenner.de>
+vdc-mem.c;Ettore Perazzoli <ettore@comm2000.it>
+vdc-mem.c;Andreas Boose <viceteam@t-online.de>
+vdc-mem.c;Errol Smith <strobey@users.sourceforge.net>
+settings_ieee488.c;Bas Wassink <b.wassink@ziggo.nl>
+v364speechwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+actions-clipboard.h;Bas Wassink <b.wassink@ziggo.nl>
+vic20io.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+parsid.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mon_registerz80.c;Andreas Boose <viceteam@t-online.de>
+menu_vic20hw.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_vic20hw.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+keysetdialog.c;Bas Wassink <b.wassink@ziggo.nl>
+openfiledialog.c;Bas Wassink <b.wassink@ziggo.nl>
+actions-cartridge.h;Bas Wassink <b.wassink@ziggo.nl>
+soundiff.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+tapecontents.h;Andreas Boose <viceteam@t-online.de>
+vic-mem.h;Ettore Perazzoli <ettore@comm2000.it>
+debug.h.in;Andreas Boose <viceteam@t-online.de>
+vicii-snapshot 2.h;Ettore Perazzoli <ettore@comm2000.it>
+vicii-snapshot 2.h;Andreas Boose <viceteam@t-online.de>
+settings_ethernetcart.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_rrnetmk3.h;Bas Wassink <b.wassink@ziggo.nl>
+vdrive-rel.c;Andreas Boose <viceteam@t-online.de>
+vdrive-rel.c;Roberto Muscedere <rmusced@uwindsor.ca>
+iec.c;Andreas Boose <viceteam@t-online.de>
+vicii-phi1.h;Andreas Boose <viceteam@t-online.de>
+drive.h;Andreas Boose <viceteam@t-online.de>
+drive.h;Daniel Sladic <sladic@eecg.toronto.edu>
+drive.h;Ettore Perazzoli <ettore@comm2000.it>
+userportprinterwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vic20.h;Ettore Perazzoli <ettore@comm2000.it>
+vic20.h;Andreas Boose <viceteam@t-online.de>
+vic20.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64fastiec.c;Andreas Boose <viceteam@t-online.de>
+c64video.c;Andreas Boose <viceteam@t-online.de>
+video-render-crtmono.c;groepaz <groepaz@gmx.net>
+video-render-crtmono.c;John Selck <graham@cruise.de>
+video-render-crtmono.c;Dag Lem <resid@nimrod.no>
+video-render-crtmono.c;Andreas Boose <viceteam@t-online.de>
+vdcmodelwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_fix_streams.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_supersnapshot.h;Bas Wassink <b.wassink@ziggo.nl>
+vice_gtk3_locking.c;David Hogan <david.q.hogan@gmail.com>
+z80.c;Andreas Boose <viceteam@t-online.de>
+ds1216e.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mascuerade-stubs.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+output-text.c;Andreas Dehmel <dehmel@forwiss.tu-muenchen.de>
+output-text.c;Andreas Boose <viceteam@t-online.de>
+monitor_network.h;*  \author Spiro Trikaliotis
+monitor_network.h;Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+gmod2.h;groepaz <groepaz@gmx.net>
+ds1307.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64-generic.c;Andreas Boose <viceteam@t-online.de>
+menu_cbm2cart.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+xcbm5x0_ui.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+xcbm5x0_ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64dtvflashsettingswidget.c;Bas Wassink <b.wassink@ziggo.nl>
+pcxdrv.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_ethernet.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+hvscstilwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+drive-writeprotect.h;Andreas Boose <viceteam@t-online.de>
+c64scui 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64scui 2.c;Bas Wassink <b.wassink@ziggo.nl>
+petramsizewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+datasette.c;Andreas Boose <viceteam@t-online.de>
+datasette.c;Andreas Matthies <andreas.matthies@gmx.net>
+datasette.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+paperclip64.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+ted.h;Andreas Boose <viceteam@t-online.de>
+ted.h;Ettore Perazzoli <ettore@comm2000.it>
+fdd.h;Kajtar Zsolt <soci@c64.rulez.org>
+directx_renderer.h;David Hogan <david.q.hogan@gmail.com>
+plus4pio1.c;Andreas Boose <viceteam@t-online.de>
+plus4pio1.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vkbd.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+drivenowidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vic-fp.c;Marko Makela <marko.makela@iki.fi>
+vic-fp.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+ffmpegdrv.h;Andreas Matthies <andreas.matthies@gmx.net>
+c64memsc.c;Andreas Boose <viceteam@t-online.de>
+c64memsc.c;Ettore Perazzoli <ettore@comm2000.it>
+c64memsc.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64cia2.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c64cia2.c;Ettore Perazzoli <ettore@comm2000.it>
+c64cia2.c;Andreas Boose <viceteam@t-online.de>
+c64cia2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+asm6809.c;Olaf Seibert <rhialto@falu.nl>
+aciawidget.c;Bas Wassink <b.wassink@ziggo.nl>
+plus4iec.h;Andreas Boose <viceteam@t-online.de>
+iec128dcr.c;Andreas Boose <viceteam@t-online.de>
+petpia1.c;Jouko Valta <jopi@stekt.oulu.fi>
+petpia1.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+petpia1.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ted-badline.h;Andreas Boose <viceteam@t-online.de>
+ffmpeglib.c;Andreas Matthies <andreas.matthies@gmx.net>
+ffmpeglib.c;Christian Vogelgsang <chris@vogelgsang.org>
+stardos-exp.h;groepaz <groepaz@gmx.net>
+socket.c;*  \author Spiro Trikaliotis\n
+socket.c;Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+socket.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+debugcart 3.c;groepaz <groepaz@gmx.net>
+archdep_set_openmp_wait_policy.c;groepaz <groepaz@gmx.net>
+pet.c;Ettore Perazzoli <ettore@comm2000.it>
+pet.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+pet.c;Andreas Boose <viceteam@t-online.de>
+pet.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+sfx_soundsampler.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_file_is_blockdev.c;Bas Wassink <b.wassink@ziggo.nl>
+crtc-cmdline-options.h;Ettore Perazzoli <ettore@comm2000.it>
+crtc-cmdline-options.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+clockportdevicewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+socket-unix-impl.h;*  \author Spiro Trikaliotis\n
+socket-unix-impl.h;Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+vfliwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep.c;Bas Wassink <b.wassink@ziggo.nl>
+machine-printer.h;Andreas Boose <viceteam@t-online.de>
+vsync.h;Andreas Boose <viceteam@t-online.de>
+cbm2.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+cbm2.h;Andreas Boose <viceteam@t-online.de>
+cbm2.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_speed.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64mem.h;Andreas Boose <viceteam@t-online.de>
+c64mem.h;Ettore Perazzoli <ettore@comm2000.it>
+c64mem.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2memorysizewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+mousedrv 2.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+rtc-58321a.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64dtvui 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64dtvui 2.c;Bas Wassink <b.wassink@ziggo.nl>
+c64model.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+c64model.c;groepaz <groepaz@gmx.net>
+c64model.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vsidui_sdl.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+isepic.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+multimax.c;groepaz <groepaz@gmx.net>
+petreu.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+userport_dac.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+zfile.c;Ettore Perazzoli <ettore@comm2000.it>
+zfile.c;Andreas Boose <viceteam@t-online.de>
+zfile.c;Bas Wassink <b.wassink@ziggo.nl>
+pet-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+printerdriverwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vsidmem.c;Andreas Boose <viceteam@t-online.de>
+vsidmem.c;Ettore Perazzoli <ettore@comm2000.it>
+vsidmem.c;groepaz <groepaz@gmx.net>
+vsidmem.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+sounduss.c;Teemu Rantanen <tvr@cs.hut.fi>
+actions-drive.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_quote_parameter.h;Bas Wassink <b.wassink@ziggo.nl>
+cbm2ui.h;Ettore Perazzoli <ettore@comm2000.it>
+cbm2ui.h;Andreas Boose <viceteam@t-online.de>
+soundcoreaudio.c;Michael Klein <michael.klein@puffin.lb.shuttle.de>
+soundcoreaudio.c;Christian Vogelgsang <C.Vogelgsang@web.de> (Ported to Intel Mac)
+soundcoreaudio.c;David Hogan <david.q.hogan@gmail.com>
+zipcode.c;Daniel Sladic <sladic@eecg.toronto.edu>
+petvia.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+ffmpegwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_cbm5x0hw.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+comal80 2.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_c64_expansions.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+65c02core.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+carthelpers.h;Bas Wassink <b.wassink@ziggo.nl>
+vdrive-snapshot.c;Andreas Boose <viceteam@t-online.de>
+digimax.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+clockport-mp3at64.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+cw-win32.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_ltkernal.c;Bas Wassink <b.wassink@ziggo.nl>
+output.h;Andreas Boose <viceteam@t-online.de>
+ps-ieee1284.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uistatusbar 3.c;*  \author Marco van den Heuvel <blackystardust68@yahoo.com>
+uistatusbar 3.c;*  \author Michael C. Martin <mcmartin@gmail.com>
+uistatusbar 3.c;*  \author Bas Wassink <b.wassink@ziggo.nl>
+uistatusbar 3.c;*  \author David Hogan <david.q.hogan@gmail.com>
+c64memlimit.c;Andreas Boose <viceteam@t-online.de>
+c64memlimit.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4-snapshot.c;Andreas Boose <viceteam@t-online.de>
+sdbox.h;groepaz <groepaz@gmx.net>
+vsidcontrolwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+c64dtvblitter.h;M.Kiesel <mayne@users.sourceforge.net>
+c64dtvblitter.h;Daniel Kahlin <daniel@kahlin.net>
+parallel.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+parallel.c;Andreas Boose <viceteam@t-online.de>
+glue1551.h;Andreas Boose <viceteam@t-online.de>
+settings_vicflashplugin.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_georam.h;Bas Wassink <b.wassink@ziggo.nl>
+c128drive.c;Andreas Boose <viceteam@t-online.de>
+menu_debug.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+basedialogs.c;Bas Wassink <b.wassink@ziggo.nl>
+asm.h;Ettore Perazzoli <ettore@comm2000.it>
+asm.h;Andreas Boose <viceteam@t-online.de>
+magicdesk.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uiabout.h;Bas Wassink <b.wassink@ziggo.nl>
+c64dtv.h;Andreas Boose <viceteam@t-online.de>
+c64dtv.h;Ettore Perazzoli <ettore@comm2000.it>
+archdep_rtc_get_centisecond.h;groepaz <groepaz@gmx.net>
+rs232dev.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_default_resource_file_name.c;Bas Wassink <b.wassink@ziggo.nl>
+easycalc.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20ui.h;Ettore Perazzoli <ettore@comm2000.it>
+vic20ui.h;Andreas Boose <viceteam@t-online.de>
+debugcart 5.h;groepaz <groepaz@gmx.net>
+settings_fsdevice.c;Bas Wassink <b.wassink@ziggo.nl>
+tcbm-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+fsimage-gcr.c;Andreas Boose <viceteam@t-online.de>
+uivsidwindow.h;Marcus Sutton <loggedoubt@gmail.com>
+joystickautofirewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+petram9widget.c;Bas Wassink <b.wassink@ziggo.nl>
+petram9widget.c;Andre Fachat <fachat@web.de>
+tape.c;Ettore Perazzoli <ettore@comm2000.it>
+tape.c;Andreas Boose <viceteam@t-online.de>
+soundmovie.h;Christian Vogelgsang <chris@vogelgsang.org>
+snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+snapshot.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+stil.c;Bas Wassink <b.wassink@ziggo.nl>
+crc32.c;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+crc32.c;Andreas Boose <viceteam@t-online.de>
+crc32.c;Bas Wassink <b.wassink@ziggo.nl>
+c64cpusc.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+uismartattach.h;Bas Wassink <b.wassink@ziggo.nl>
+actions-snapshot.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4memhacks.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+sidenginemodelwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_printer.c;Bas Wassink <b.wassink@ziggo.nl>
+ieee.c;Andreas Boose <viceteam@t-online.de>
+fsimage-check.c;Andreas Boose <viceteam@t-online.de>
+monitor_binary.h;*  \author EmpathicQubit <empathicqubit@entan.gl>
+petdiagpinwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+uisnapshot.c;Bas Wassink <b.wassink@ziggo.nl>
+scsi.c;Roberto Muscedere <rmusced@uwindsor.ca>
+iffdrv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+fsdevice-write.c;Andreas Boose <viceteam@t-online.de>
+c128mmu.h;Andreas Boose <viceteam@t-online.de>
+c128mmu.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+pet-sidcart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+protopad.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64cartmem.h;Andreas Boose <viceteam@t-online.de>
+settings_misc.c;Bas Wassink <b.wassink@ziggo.nl>
+diskcontents.h;Andreas Boose <viceteam@t-online.de>
+drivefsdevicewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+vicii-mem.c;Ettore Perazzoli <ettore@comm2000.it>
+vicii-mem.c;Andreas Boose <viceteam@t-online.de>
+vsidmainwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+dqbb.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-mem 2.c;Ettore Perazzoli <ettore@comm2000.it>
+vicii-mem 2.c;Andreas Boose <viceteam@t-online.de>
+vicii-mem 2.c;Daniel Kahlin <daniel@kahlin.net>
+raster-sprite-cache.c;Ettore Perazzoli <ettore@comm2000.it>
+raster-sprite-cache.c;Andreas Boose <viceteam@t-online.de>
+vic-timing.h;groepaz <groepaz@gmx.net>
+gmod2c128.c;groepaz <groepaz@gmx.net>
+ted-mem.h;Andreas Boose <viceteam@t-online.de>
+ted-mem.h;Ettore Perazzoli <ettore@comm2000.it>
+pcf8583.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vsid.c;Andreas Boose <viceteam@t-online.de>
+vsid.c;Ettore Perazzoli <ettore@comm2000.it>
+vsid.c;Teemu Rantanen <tvr@cs.hut.fi>
+vsid.c;groepaz <groepaz@gmx.net>
+ultimem.h;Marko Makela <marko.makela@iki.fi>
+ninja_snespad.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vdc-draw.h;Ettore Perazzoli <ettore@comm2000.it>
+vdc-draw.h;Markus Brenner <markus@brenner.de>
+vdc-draw.h;Andreas Boose <viceteam@t-online.de>
+spaceballs.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20via2.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vic20via2.c;Ettore Perazzoli <ettore@comm2000.it>
+vic20via2.c;Andreas Boose <viceteam@t-online.de>
+blackbox3.h;groepaz <groepaz@gmx.net>
+c64scui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64scui.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_mouse.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+uipoll.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+x64dtv_ui.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+x64dtv_ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+actions-machine.c;Bas Wassink <b.wassink@ziggo.nl>
+render2x2.c;John Selck <graham@cruise.de>
+superpetwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+vicii-sprites.c;Ettore Perazzoli <ettore@comm2000.it>
+vicii-sprites.c;Andreas Boose <viceteam@t-online.de>
+imagecontents.c;Ettore Perazzoli <ettore@comm2000.it>
+imagecontents.c;Andreas Boose <viceteam@t-online.de>
+imagecontents.c;Tibor Biczo <crown@mail.matav.hu>
+hotkeymap.c;Bas Wassink <b.wassink@ziggo.nl>
+ted-irq.c;Andreas Boose <viceteam@t-online.de>
+ted-irq.c;Tibor Biczo <crown@axelero.hu>
+i8255a.c;Roberto Muscedere <rmusced@uwindsor.ca>
+mouse.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mouse.h;Andreas Boose <viceteam@t-online.de>
+raster-modes.h;Ettore Perazzoli <ettore@comm2000.it>
+raster-modes.h;Andreas Boose <viceteam@t-online.de>
+kbd 3.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+kbd 3.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+rushware_keypad.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mon_register65816.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+serial.h;Teemu Rantanen <tvr@cs.hut.fi>
+serial.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+serial.h;Andreas Boose <viceteam@t-online.de>
+settings_host_display.h;Bas Wassink <b.wassink@ziggo.nl>
+c64dtvdma.c;M.Kiesel <mayne@users.sourceforge.net>
+c64dtvdma.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+c64dtvdma.c;Daniel Kahlin <daniel@kahlin.net>
+videoarch 3.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+videoarch 3.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vsyncarch 3.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+vsyncarch 3.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4parallel.c;Andreas Boose <viceteam@t-online.de>
+archdep_unix.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_rom.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+ramlink.c;Roberto Muscedere <rmusced@uwindsor.ca>
+archdep_rawnet_capability.c;groepaz <groepaz@gmx.net>
+xplus4_ui.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+xplus4_ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64_diag_586220_harness.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_is_macos_bindist.h;David Hogan <david.q.hogan@gmail.com>
+superexplode5.h;Groepaz <groepaz@gmx.net>
+fsimage-dxx.c;Kajtar Zsolt <soci@c64.rulez.org>
+archdep_quote_unzip.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_fseeko.c;Bas Wassink <b.wassink@ziggo.nl>
+plus4-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+ciad.h;Andreas Boose <viceteam@t-online.de>
+vicii-irq.h;Andreas Boose <viceteam@t-online.de>
+menu_snapshot.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+vic20-cmdline-options.c;Ettore Perazzoli <ettore@comm2000.it>
+vic20-cmdline-options.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+shortbus_digimax.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm5x0ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm5x0ui.c;Bas Wassink <b.wassink@ziggo.nl>
+lib.h;Andreas Boose <viceteam@t-online.de>
+lib.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20-ieee488.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+scpu64meminit.h;Kajtar Zsolt <soci@c64.rulez.org>
+ui 2.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+ui 2.h;Bas Wassink <b.wassink@ziggo.nl>
+atomicpower.c;Andreas Boose <viceteam@t-online.de>
+atomicpower.c;groepaz <groepaz@gmx.net>
+multicart.h;groepaz <groepaz@gmx.net>
+c64romset.c;Andreas Boose <viceteam@t-online.de>
+menu_ffmpeg.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+videobordermodewidget.h;Bas Wassink <b.wassink@ziggo.nl>**
+ds1602.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+file_drv.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+uidiskcreate.h;Bas Wassink <b.wassink@ziggo.nl>
+vic20memrom.c;Andreas Boose <viceteam@t-online.de>
+driveextendpolicywidget.c;Bas Wassink <b.wassink@ziggo.nl>
+mach5.h;Groepaz <groepaz@gmx.net>
+cbm2romset.c;Andreas Boose <viceteam@t-online.de>
+pc8477.h;Kajtar Zsolt <soci@c64.rulez.org>
+tapeimage.c;Andreas Boose <viceteam@t-online.de>
+fsdevice-resources.h;Andreas Boose <viceteam@t-online.de>
+debug.c;Andreas Boose <viceteam@t-online.de>
+menu_reset.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicioramwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+render2x2ntsc.h;groepaz <groepaz@gmx.net> based on the pal renderers written by
+render2x2ntsc.h;John Selck <graham@cruise.de>
+render2x2ntsc.h;Andreas Boose <viceteam@t-online.de>
+ata.c;Kajtar Zsolt <soci@c64.rulez.org>
+vicii-lightpen.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+c64memhackswidget.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_tapeport.h;Bas Wassink <b.wassink@ziggo.nl>
+resourcecheckbutton.h;Bas Wassink <b.wassink@ziggo.nl>
+serial-trap.c;Andreas Boose <viceteam@t-online.de>
+ds1202_1302.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+dynlib-win32.c;Christian Vogelgsang <chris@vogelgsang.org>
+mouse_1351.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mouse_1351.h;Andreas Boose <viceteam@t-online.de>
+raster-sprite-status.h;Ettore Perazzoli <ettore@comm2000.it>
+raster-sprite-status.h;Andreas Boose <viceteam@t-online.de>
+petrom.c;Ettore Perazzoli <ettore@comm2000.it>
+petrom.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+petrom.c;Andreas Boose <viceteam@t-online.de>
+diashowmaker.h;Groepaz <groepaz@gmx.net>
+uifilereq.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uifilereq.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+joystickdevicewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_model.h;Bas Wassink <b.wassink@ziggo.nl>
+render2x4.h;groepaz <groepaz@gmx.net> based on the renderers written by
+render2x4.h;John Selck <graham@cruise.de>
+settings_midi.h;Bas Wassink <b.wassink@ziggo.nl>
+mon_util.h;Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+pngdrv.h;Andreas Boose <viceteam@t-online.de>
+c128-resources.h;Andreas Boose <viceteam@t-online.de>
+c128-resources.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2rom.h;Andreas Boose <viceteam@t-online.de>
+cbm2rom.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+raster-cache.c;Ettore Perazzoli <ettore@comm2000.it>
+raster-cache.c;Andreas Boose <viceteam@t-online.de>
+c128fastiec.c;Andreas Boose <viceteam@t-online.de>
+main65816cpu.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+fsdrive.h;Andreas Boose <viceteam@t-online.de>
+plus60k.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archapi.h;Andreas Boose <viceteam@t-online.de>
+archapi.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archapi.h;Bas Wassink <b.wassink@ziggo.nl>
+drivefixedsizewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+vic20sound.c;Rami Rasanen <raipsu@users.sf.net>
+vic20sound.c;Ville-Matias Heikkila <viznut@iki.fi>
+ssi2001-unix-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ioramcart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+formel64.c;groepaz <groepaz@gmx.net>
+settings_crt.c;Bas Wassink <b.wassink@ziggo.nl>
+vdrive-internal.c;Andreas Boose <viceteam@t-online.de>
+menu_printer.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+mos6510.h;Ettore Perazzoli <ettore@comm2000.it>
+mos6510.h;Andreas Boose <viceteam@t-online.de>
+rs232drv.h;Andreas Boose <viceteam@t-online.de>
+cbm5x0-resources.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+cbm5x0-resources.c;Andreas Boose <viceteam@t-online.de>
+savefiledialog.h;Bas Wassink <b.wassink@ziggo.nl>
+ross.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-stubs.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+ps-unix-file.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+viciitypes.h;Ettore Perazzoli <ettore@comm2000.it>
+viciitypes.h;Andreas Boose <viceteam@t-online.de>
+crtcontrolwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+coproc.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+raster-cache-fill.h;Andreas Boose <viceteam@t-online.de>
+raster-cache-fill.h;Ettore Perazzoli <ettore@comm2000.it>
+interface-serial.h;Andreas Boose <viceteam@t-online.de>
+iec-resources.h;Andreas Boose <viceteam@t-online.de>
+settings_autostart.h;Bas Wassink <b.wassink@ziggo.nl>
+dma.c;Andreas Boose <viceteam@t-online.de>
+c64cia.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+plus4cart.c;Tibor Biczo <crown@axelero.hu>
+plus4cart.c;Groepaz <groepaz@gmx.net>
+menu_network.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+uimenu.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+uimenu.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+catweaselmkiii.h;Andreas Boose <viceteam@t-online.de>
+catweaselmkiii.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+videorenderfilterwidget.h;Bas Wassink <b.wassink@ziggo.nl>**
+cbm5x0printer.c;Andreas Boose <viceteam@t-online.de>
+menu_c64model.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+vic20rom.h;Andreas Boose <viceteam@t-online.de>
+c64-resources.c;Andreas Boose <viceteam@t-online.de>
+menu_midi.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+settings_magicvoice.h;Bas Wassink <b.wassink@ziggo.nl>
+wininpoutp.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2-resources.h;Andreas Boose <viceteam@t-online.de>
+actions-hotkeys.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_rs232.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_c64_common_expansions.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+palette.h;Ettore Perazzoli <ettore@comm2000.it>
+palette.h;Andreas Boose <viceteam@t-online.de>
+kcs.h;Andreas Boose <viceteam@t-online.de>
+render2x4rgbi.h;groepaz <groepaz@gmx.net> based on the pal renderers
+xvic_ui.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+xvic_ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64keyboard.h;Andreas Boose <viceteam@t-online.de>
+westermann.c;groepaz <groepaz@gmx.net>
+behrbonz.c;groepaz <groepaz@gmx.net>
+spi-flash.c;Groepaz <groepaz@gmx.net>
+tedtypes.h;Andreas Boose <viceteam@t-online.de>
+tedtypes.h;Ettore Perazzoli <ettore@comm2000.it>
+tedtypes.h;Tibor Biczo <crown@axelero.hu>
+rsuser.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+viad.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+viad.h;Andreas Boose <viceteam@t-online.de>
+opengl_renderer_unix.c;David Hogan <david.q.hogan@gmail.com>
+monitor.h;Andreas Boose <viceteam@t-online.de>
+monitor.h;Daniel Sladic <sladic@eecg.toronto.edu>
+monitor.h;Ettore Perazzoli <ettore@comm2000.it>
+menu_plus4cart.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+inception.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+socket-beos-impl.h;*  \author Spiro Trikaliotis\n
+socket-beos-impl.h;Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+drive-check.c;Andreas Boose <viceteam@t-online.de>
+c64-midi.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+c64-midi.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+nativedrv.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+nativedrv.h;groepaz <groepaz@gmx.net>
+archdep_list_drives.c;(Unknown)
+userport_4bit_sampler.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+render1x2.c;John Selck <graham@cruise.de>
+maincpu.c;Ettore Perazzoli <ettore@comm2000.it>
+maincpu.c;Andreas Boose <viceteam@t-online.de>
+rawnet.h;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+actions-speed.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_drive.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_romset.c;Bas Wassink <b.wassink@ziggo.nl>
+vic20memoryexpansionwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+crtctypes.h;Ettore Perazzoli <ettore@comm2000.it>
+crtctypes.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vdc.c;Markus Brenner <markus@brenner.de>
+vdc.c;Ettore Perazzoli <ettore@comm2000.it>
+vdc.c;Andreas Boose <viceteam@t-online.de>
+vdc.c;Errol Smith <strobey@users.sourceforge.net>
+directx_renderer_impl.h;David Hogan <david.q.hogan@gmail.com>
+burstmodewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+cbmdos.c;Andreas Boose <viceteam@t-online.de>
+io-unix-access.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c128cart.h;groepaz <groepaz@gmx.net>
+supersnapshot.h;Andreas Boose <viceteam@t-online.de>
+epyxfastload.c;Andreas Boose <viceteam@t-online.de>
+settings_video.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_sfxsoundsampler.c;Bas Wassink <b.wassink@ziggo.nl>
+fsimage.c;Andreas Boose <viceteam@t-online.de>
+rexramfloppy.c;groepaz <groepaz@gmx.net>
+capture.c;Groepaz <groepaz@gmx.net>
+magicformel.h;Andreas Boose <viceteam@t-online.de>
+vic20cartmem.h;Daniel Kahlin <daniel@kahlin.net>
+ieeeflash64.h;Christopher Bongaarts <cab@bongalow.net>
+fsdevice-filename.c;groepaz <groepaz@gmx.net>
+ssi2001.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+console.c;David Hogan <david.q.hogan@gmail.com>
+cbm2sound.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64dtvcia1.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c64dtvcia1.c;Ettore Perazzoli <ettore@comm2000.it>
+c64dtvcia1.c;Andreas Boose <viceteam@t-online.de>
+archdep_kbd_get_host_mapping.c;groepaz <groepaz@gmx.net>
+profdos.c;Andreas Boose <viceteam@t-online.de>
+menu_monitor.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+archdep_make_backup_filename.c;Bas Wassink <b.wassink@ziggo.nl>
+scpu64.c;Kajtar Zsolt <soci@c64.rulez.org>
+scpu64.c;Andreas Boose <viceteam@t-online.de>
+scpu64.c;Ettore Perazzoli <ettore@comm2000.it>
+scpu64.c;Teemu Rantanen <tvr@cs.hut.fi>
+scpu64.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+driveunitwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+memieee.c;Andreas Boose <viceteam@t-online.de>
+memieee.c;Kajtar Zsolt <soci@c64.rulez.org>
+vdrive-bam.c;Andreas Boose <viceteam@t-online.de>
+vdrive-bam.c;Ingo Korb <ingo@akana.de>
+ds12c887rtc.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_c64hw.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_c64hw.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+ram.c;Andreas Matthies <andreas.matthies@gmx.net>
+iecdrive.h;Andreas Boose <viceteam@t-online.de>
+iecdrive.h;Daniel Sladic <sladic@eecg.toronto.edu>
+iecdrive.h;Ettore Perazzoli <ettore@comm2000.it>
+iecdrive.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+iecdrive.h;Teemu Rantanen <tvr@cs.hut.fi>
+archdep_default_portable_resource_file_name.h;groepaz <groepaz@gmx.net>
+delaep64.h;Michael Klein <michael.klein@puffin.lb.shuttle.de>
+settings_ultimem.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_autofire.h;Bas Wassink <b.wassink@ziggo.nl>
+mon_parse.c;Daniel Sladic <sladic@eecg.toronto.edu>
+mon_parse.c;Andreas Boose <viceteam@t-online.de>
+mon_parse.c;Thomas Giesel <skoe@directbox.com>
+parallel-trap.h;Andreas Boose <viceteam@t-online.de>
+daa.h;Andreas Boose <viceteam@t-online.de>
+daa.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_get_vice_datadir.h;Bas Wassink <b.wassink@ziggo.nl>
+printer.c;Andreas Boose <viceteam@t-online.de>
+archdep 2.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+petmem.h;Ettore Perazzoli <ettore@comm2000.it>
+petmem.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+petmem.h;Andreas Boose <viceteam@t-online.de>
+petmem.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64pla.h;Andreas Boose <viceteam@t-online.de>
+c64pla.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+raster-changes.c;Ettore Perazzoli <ettore@comm2000.it>
+raster-changes.c;Andreas Boose <viceteam@t-online.de>
+godotdrv.c;Kajtar Zsolt <soci@c64.rulez.org>
+uipause.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+diskcontents-iec.h;Andreas Boose <viceteam@t-online.de>
+sidcartwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vsidpla.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64exp-resources.h;Andreas Boose <viceteam@t-online.de>
+vicii.h;Ettore Perazzoli <ettore@comm2000.it>
+vicii.h;Andreas Boose <viceteam@t-online.de>
+cbm2cart.h;groepaz <groepaz@gmx.net>
+winjoy.h;Spiro Trikaliotis
+network.h;Andreas Matthies <andreas.matthies@gmx.net>
+cbm2-common-resources.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_gmod3.h;Bas Wassink <b.wassink@ziggo.nl>
+aciacore.c;*  \author Andre Fachat, Spiro Trikaliotis\n
+aciacore.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+aciacore.c;Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+userportrsinterfacewidget.c;Pablo Roldan <pdroldan@gmail.com>
+resourcescale.h;Bas Wassink <b.wassink@ziggo.nl>
+video-sound.c;groepaz <groepaz@gmx.net>
+script64_dongle.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+ds12c887.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mem1551.c;Andreas Boose <viceteam@t-online.de>
+generic.c;groepaz <groepaz@gmx.net>
+main.c;David Hogan <david.q.hogan@gmail.com>
+cbm5x0mem.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+userport_superpad64.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64dtv-snapshot.c;Andreas Boose <viceteam@t-online.de>
+c64dtv-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+menu_sid.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_sid.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+machinemodelwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+freezemachine.h;Groepaz <groepaz@gmx.net>
+sidcart.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+dinamic.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4memoryexpansionwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+cbm2mem.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+joy.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+crt 2.h;Andreas Boose <viceteam@t-online.de>
+crt 2.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+asm6502dtv.c;Ettore Perazzoli <ettore@comm2000.it>
+asm6502dtv.c;Andreas Boose <viceteam@t-online.de>
+vice.h;*  \author Ettore Perazzoli <ettore@comm2000.it>
+vice.h;*  \author Jouko Valta <jopi@stekt.oulu.fi>
+vice.h;*  \author Andreas Boose <viceteam@t-online.de>
+ted-timing.c;Andreas Boose <viceteam@t-online.de>
+ted-timing.c;Tibor Biczo <crown@axelero.hu>
+via4000.c;Kajtar Zsolt <soci@c64.rulez.org>
+c64-memory-hacks.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vsidmixerwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+tpi.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+tpi.h;Andreas Boose <viceteam@t-online.de>
+petsound.c;Teemu Rantanen <tvr@cs.hut.fi>
+petsound.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+petsound.c;Olaf Seibert <rhialto@falu.nl>
+settings_retroreplay.h;Bas Wassink <b.wassink@ziggo.nl>
+cs8900.h;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+vsidstate.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_controlport.h;Bas Wassink <b.wassink@ziggo.nl>
+cx85.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ciamodelwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+render1x1ntsc.h;groepaz <groepaz@gmx.net> based on the pal renderers written by
+render1x1ntsc.h;John Selck <graham@cruise.de>
+render1x1ntsc.h;Andreas Boose <viceteam@t-online.de>
+ieee-resources.c;Andreas Boose <viceteam@t-online.de>
+trapthem_snespad.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+hummeradc.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+settings_joystick.c;Bas Wassink <b.wassink@ziggo.nl>
+c128memsnapshot.c;Andreas Boose <viceteam@t-online.de>
+c128memsnapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+gamekiller.c;Groepaz <groepaz@gmx.net>
+uifliplist.h;Michael C. Martin <mcmartin@gmail.com>
+c128functionromwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vic20mem.c;Ettore Perazzoli <ettore@comm2000.it>
+vic20mem.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vic20mem.c;Daniel Kahlin <daniel@kahlin.net>
+vic20mem.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+z80mem.h;Andreas Boose <viceteam@t-online.de>
+sound.c;Teemu Rantanen <tvr@cs.hut.fi>
+sound.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4exp-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+fliplist.h;pottendo <pottendo@gmx.net>
+fliplist.h;Bas Wassink <b.wassink@ziggo.nl>
+mousedrv.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+serial-iec.h;Andreas Boose <viceteam@t-online.de>
+statusbarledwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+raster-canvas.h;Andreas Boose <viceteam@t-online.de>
+mon_assemble65816.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+actions-debug.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4ui 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4ui 2.c;Bas Wassink <b.wassink@ziggo.nl>
+log.h;Ettore Perazzoli <ettore@comm2000.it>
+coplin_keypad.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mon_registerR65C02.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20-generic.c;Daniel Kahlin <daniel@kahlin.net>
+uistatusbar.h;Michael C. Martin <mcmartin@gmail.com>
+crtc.h;Ettore Perazzoli <ettore@comm2000.it>
+crtc.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+settings_digimax.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_default_cart.h;Bas Wassink <b.wassink@ziggo.nl>
+vdrive.c;Andreas Boose <viceteam@t-online.de>
+video-viewport.c;Andreas Boose <viceteam@t-online.de>
+cw-win32-dll.c;Andreas Boose <viceteam@t-online.de>
+cw-win32-dll.c;Dirk Jagdmann <doj@cubic.org>
+cw-win32-dll.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+pet-resources.h;Andreas Boose <viceteam@t-online.de>
+sense-dongle.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uitapeattach.c;Bas Wassink <b.wassink@ziggo.nl>
+uitapeattach.c;Michael C. Martin <mcmartin@gmail.com>
+userport_8bss.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vsidplaylistwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_reu.h;Bas Wassink <b.wassink@ziggo.nl>
+scpu64-resources.c;Kajtar Zsolt <soci@c64.rulez.org>
+scpu64-resources.c;Andreas Boose <viceteam@t-online.de>
+userport_petscii_snespad.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+resourcecombobox.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_beos.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_beos.h;Marcus Sutton <loggedoubt@gmail.com>
+csshelpers.h;*  \author Bas Wassink <b.wassink@ziggo.nl>
+render2x2pal.c;John Selck <graham@cruise.de>
+printer-userport.c;Andreas Boose <viceteam@t-online.de>
+iecbus.c;Andreas Boose <viceteam@t-online.de>
+x64.h;Andreas Boose <viceteam@t-online.de>
+mon_command.h;Andreas Boose <viceteam@t-online.de>
+actionreplay3.c;Andreas Boose <viceteam@t-online.de>
+crtc-color.c;groepaz <groepaz@gmx.net>
+menu_joyport.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c128model.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+c128model.c;groepaz <groepaz@gmx.net>
+event.c;Andreas Boose <viceteam@t-online.de>
+event.c;Andreas Matthies <aDOTmatthiesATgmxDOTnet>
+fullscreenarch.h;Andreas Boose <viceteam@t-online.de>
+settings_soundchip.h;Bas Wassink <b.wassink@ziggo.nl>
+vdrive-command.h;Andreas Boose <viceteam@t-online.de>
+vic-draw.h;Ettore Perazzoli <ettore@comm2000.it>
+archdep_chdir.c;Bas Wassink <b.wassink@ziggo.nl>
+tpid.c;Andreas Boose <viceteam@t-online.de>
+c64exp-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+keyboard.h;Andreas Boose <viceteam@t-online.de>
+keyboard.h;Ettore Perazzoli <ettore@comm2000.it>
+keyboard.h;Tibor Biczo <crown@mail.matav.hu>
+keyboard.h;groepaz <groepaz@gmx.net>
+vicii-fetch.c;Andreas Boose <viceteam@t-online.de>
+vicii-fetch.c;Ettore Perazzoli <ettore@comm2000.it>
+c64dtvpla.c;Daniel Kahlin <daniel@kahlin.net>
+archdep_access.c;Bas Wassink <b.wassink@ziggo.nl>
+actions-media.h;Bas Wassink <b.wassink@ziggo.nl>
+kbddebugwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_get_vice_docsdir.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_boot_path.h;Bas Wassink <b.wassink@ziggo.nl>
+findpath.h;Tomi Ollila <Tomi.Ollila@tfi.net>
+findpath.h;Ettore Perazzoli <ettore@comm2000.it>
+menu_common.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_common.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+pethrewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vic-cycle.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+mon_lex.c;Daniel Sladic <sladic@eecg.toronto.edu>
+mon_lex.c;Andreas Boose <viceteam@t-online.de>
+mon_lex.c;Thomas Giesel <skoe@directbox.com>
+vic20model.h;groepaz <groepaz@gmx.net>
+archdep_tick.c;David Hogan <david.q.hogan@gmail.com>
+uidatasette.c;Michael C. Martin <mcmartin@gmail.com>
+lightpendrv.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+machine.c;Andreas Boose <viceteam@t-online.de>
+menu_help.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+raster-snapshot.h;David Hogan <david.q.hogan@gmail.com>
+settings_megacart.c;Bas Wassink <b.wassink@ziggo.nl>
+debugcart.c;groepaz <groepaz@gmx.net>
+sounddriverwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+userport_rtc_58321a.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+comal80.c;groepaz <groepaz@gmx.net>
+drivecpu.c;Ettore Perazzoli <ettore@comm2000.it>
+drivecpu.c;Andreas Boose <viceteam@t-online.de>
+archdep_dir.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_dir.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_dir.c;Andreas Boose <viceteam@t-online.de>
+plus4memlimit.c;Andreas Boose <viceteam@t-online.de>
+xcbm2_ui.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+xcbm2_ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4pio2.h;Andreas Boose <viceteam@t-online.de>
+settings_sound.c;Bas Wassink <b.wassink@ziggo.nl>
+vsidui.h;Dag Lem <resid@nimrod.no>
+uimenu 2.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+uimenu 2.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+output-select.h;Andreas Boose <viceteam@t-online.de>
+soundvorbis.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-draw.c;Andreas Boose <viceteam@t-online.de>
+vicii-draw.c;Ettore Perazzoli <ettore@comm2000.it>
+sampler.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+shortbus_etfe.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mixerwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+uimon.h;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+opencbmlib.h;Andreas Boose <viceteam@t-online.de>
+georam.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+cartimagewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+fsdevice-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+archdep_tmpnam.c;Bas Wassink <b.wassink@ziggo.nl>
+ser-eeprom.h;Groepaz/Hitmen <groepaz@gmx.net>
+x64_ui.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+x64_ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+simonsbasic.c;Groepaz <groepaz@gmx.net>
+popupmenu.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_default_fliplist_file_name.c;Bas Wassink <b.wassink@ziggo.nl>
+c64dtvmemsnapshot.h;Andreas Boose <viceteam@t-online.de>
+scpu64-snapshot.h;Kajtar Zsolt <soci@c64.rulez.org>
+scpu64-snapshot.h;Andreas Boose <viceteam@t-online.de>
+lightpen.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+lightpen.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+coproc 2.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+petvideosizewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+tcbm.c;Andreas Boose <viceteam@t-online.de>
+autostart.c;Teemu Rantanen <tvr@cs.hut.fi>
+autostart.c;Ettore Perazzoli <ettore@comm2000.it>
+autostart.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+autostart.c;Andreas Boose <viceteam@t-online.de>
+autostart.c;Thomas Bretz <tbretz@ph.tum.de>
+autostart.c;groepaz <groepaz@gmx.net>
+printeroutputmodewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_rename.c;Bas Wassink <b.wassink@ziggo.nl>
+mc6821core.c;groepaz <groepaz@gmx.net>
+archdep_startup_log_error.h;Bas Wassink <b.wassink@ziggo.nl>
+uidiskattach.c;Bas Wassink <b.wassink@ziggo.nl>
+ppmdrv.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+rrnetmk3.c;Groepaz <groepaz@gmx.net>
+ted-draw.c;Andreas Boose <viceteam@t-online.de>
+ted-draw.c;Ettore Perazzoli <ettore@comm2000.it>
+ted-draw.c;Tibor Biczo <crown@axelero.hu>
+archdep_sound.c;David Hogan <david.q.hogan@gmail.com>
+c64tpi.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+c64tpi.c;Andreas Boose <viceteam@t-online.de>
+portaudio_drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+screenshot.c;Andreas Boose <viceteam@t-online.de>
+screenshot.c;Andreas Matthies <andreas.matthies@gmx.net>
+screenshot.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mos6510dtv.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+c64dtv-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+c64dtv-cmdline-options.c;Ettore Perazzoli <ettore@comm2000.it>
+debugcart 6.c;groepaz <groepaz@gmx.net>
+petio.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4.h;Andreas Boose <viceteam@t-online.de>
+plus4.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+glue1571.h;Andreas Boose <viceteam@t-online.de>
+gmod3.h;groepaz <groepaz@gmx.net>
+render2x2rgbi.h;groepaz <groepaz@gmx.net> based on the pal renderers
+final.h;Andreas Boose <viceteam@t-online.de>
+final.h;groepaz <groepaz@gmx.net>
+magicvoice.c;groepaz <groepaz@gmx.net>
+settings_isepic.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_screenshot.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mikroass.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uiactionbutton.c;Bas Wassink <b.wassink@ziggo.nl>
+vicii-resources 2.h;Andreas Boose <viceteam@t-online.de>
+vicii-resources 2.h;Ettore Perazzoli <ettore@comm2000.it>
+menu_joystick.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_joystick.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64memrom.h;Andreas Boose <viceteam@t-online.de>
+archdep_program_name.h;Bas Wassink <b.wassink@ziggo.nl>
+extendimagedialog.c;groepaz <groepaz@gmx.net>
+65816core.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+65816core.c;Kajtar Zsolt <soci@c64.rulez.org>
+archdep_cbmfont.c;Bas Wassink <b.wassink@ziggo.nl>
+reu.c;Andreas Boose
+reu.c;Spiro Trikaliotis
+reu.c;Jouko Valta
+reu.c;Richard Hable
+reu.c;Ettore Perazzoli
+xscpu64_ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+diskimage.c;Andreas Boose <viceteam@t-online.de>
+scpu64gluelogic.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+fullscreen.h;Andreas Boose <viceteam@t-online.de>
+cartridge.h;Andreas Boose <viceteam@t-online.de>
+cartridge.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+serial-iec-bus.c;Andreas Boose <viceteam@t-online.de>
+printeremulationtypewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+magicdesk128.h;groepaz <groepaz@gmx.net>
+actions-settings.h;Bas Wassink <b.wassink@ziggo.nl>
+soundsampleratewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+ted-sound.c;Andreas Boose <viceteam@t-online.de>
+ted-sound.c;Tibor Biczo <crown @ axelero . hu>
+ted-sound.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+finalplus.h;groepaz <groepaz@gmx.net>
+plus4aciawidget.h;Bas Wassink <b.wassink@ziggo.nl>
+fsdevice-flush.c;Andreas Boose <viceteam@t-online.de>
+uisettings.c;Bas Wassink <b.wassink@ziggo.nl>
+soundfragmentsizewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+supergames.c;Andreas Boose <viceteam@t-online.de>
+kernalrevisionwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vicii-phi1 2.h;Andreas Boose <viceteam@t-online.de>
+hs-win32.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+bq4830y.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_create_user_config_dir.c;Bas Wassink <b.wassink@ziggo.nl>
+bisplus.h;groepaz <groepaz@gmx.net>
+drean.c;groepaz <groepaz@gmx.net>
+archdep_default_hotkey_file_name.c;Bas Wassink <b.wassink@ziggo.nl>
+driver-select.h;Andreas Boose <viceteam@t-online.de>
+fsimage-p64.c;Benjamin 'BeRo' Rosseaux <benjamin@rosseaux.com>
+archdep_signals.c;Ettore Perazzoli <ettore@comm2000.it>
+archdep_signals.c;Andreas Boose <viceteam@t-online.de>
+archdep_signals.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_signals.c;Bas Wassink <b.wassink@ziggo.nl>
+statusbarspeedwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+viciidtv-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+viciidtv-snapshot.c;Andreas Boose <viceteam@t-online.de>
+funplay.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+video.h;Andreas Boose <viceteam@t-online.de>
+fsimage-probe.c;Andreas Boose <viceteam@t-online.de>
+settings_rexramfloppy.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_sanitize_filename.h;Bas Wassink <b.wassink@ziggo.nl>
+output-graphics.c;Andreas Boose <viceteam@t-online.de>
+settings_finalexpansion.h;Bas Wassink <b.wassink@ziggo.nl>
+c64drive.c;Andreas Boose <viceteam@t-online.de>
+rtc.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+clipboard.h;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+clipboard.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-timing.c;Andreas Boose <viceteam@t-online.de>
+vicii-timing.c;Gunnar Ruthenberg <Krill.Plush@gmail.com>
+rawnetarch_tuntap.c;Alceste Scalas <alceste.scalas@gmail.com>
+sldb.h;Bas Wassink <b.wassink@ziggo.nl>
+userport_diag_586220_harness.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbmimage.h;Andreas Boose <viceteam@t-online.de>
+fsdevice-read.h;Andreas Boose <viceteam@t-online.de>
+t6721.c;groepaz <groepaz@gmx.net>
+plus4model.h;groepaz <groepaz@gmx.net>
+mididevicewidget.h;groepaz <groepaz@gmx.net>
+vsidcia2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_jam.c;groepaz <groepaz@gmx.net>
+sid-resources.h;Andreas Boose <viceteam@t-online.de>
+sid-resources.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+raster-line.h;Andreas Boose <viceteam@t-online.de>
+uiactions.h;Bas Wassink <b.wassink@ziggo.nl>
+uiimagefilereq.c;groepaz <groepaz@gmx.net>
+resourcenumericstring.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_default_autostart_disk_image_file_name.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_file_exists.c;Bas Wassink <b.wassink@ziggo.nl>
+sampler2bit.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+romsetmanagerwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+filechooserhelpers.c;Bas Wassink <b.wassink@ziggo.nl>
+vic-color.c;John Selck <graham@cruise.de>
+clockport-rrnet.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mon_drive.c;Andreas Boose <viceteam@t-online.de>
+mon_drive.c;Daniel Sladic <sladic@eecg.toronto.edu>
+mon_drive.c;Ettore Perazzoli <ettore@comm2000.it>
+cbm2memsnapshot.h;Andreas Boose <viceteam@t-online.de>
+util.h;Ettore Perazzoli <ettore@comm2000.it>
+util.h;Andreas Boose <viceteam@t-online.de>
+util.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-cmdline-options 2.c;Ettore Perazzoli <ettore@comm2000.it>
+vicii-cmdline-options 2.c;Andreas Boose <viceteam@t-online.de>
+vicii-cmdline-options 2.c;Gunnar Ruthenberg <Krill.Plush@gmail.com>
+blackbox4.c;groepaz <groepaz@gmx.net>
+fsdevice.h;Andreas Boose <viceteam@t-online.de>
+vicii-badline.h;Andreas Boose <viceteam@t-online.de>
+mon_ui.h;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+video_sdl1.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+video_sdl1.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uistatusbar 2.c;*  \author Marco van den Heuvel <blackystardust68@yahoo.com>
+uistatusbar 2.c;*  \author Michael C. Martin <mcmartin@gmail.com>
+ssi2001-beos-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+driveparallelcablewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+resources.c;Ettore Perazzoli <ettore@comm2000.it>
+resources.c;Andreas Boose <viceteam@t-online.de>
+petcolour.h;Olaf Seibert <rhialto@falu.nl>
+ted-timer.h;Andreas Boose <viceteam@t-online.de>
+archdep_mkdir.c;Bas Wassink <b.wassink@ziggo.nl>
+actions-help.c;Bas Wassink <b.wassink@ziggo.nl>
+petiec.h;Andreas Boose <viceteam@t-online.de>
+p00.h;Ettore Perazzoli <ettore@comm2000.it>
+vicii-chip-model.c;Daniel Kahlin <daniel@kahlin.net>
+petiosizewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_snapshot.h;Bas Wassink <b.wassink@ziggo.nl>
+ciatimer.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+render-common.c;John Selck <graham@cruise.de>
+fastsid.h;Teemu Rantanen <tvr@cs.hut.fi>
+petmodel.h;groepaz <groepaz@gmx.net>
+initcmdline.c;Andreas Boose <viceteam@t-online.de>
+initcmdline.c;Ettore Perazzoli <ettore@comm2000.it>
+midi-win32-drv.c;Daniel Kahlin <daniel@kahlin.net>
+archdep_mkstemp_fd.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_mkstemp_fd.h;Bas Wassink <b.wassink@ziggo.nl>
+netplaywidget.h;Bas Wassink <b.wassink@ziggo.nl>
+uivsidmenu.h;Marcus Sutton <loggedoubt@gmail.com>
+pagefox.c;Groepaz/Hitmen <groepaz@gmx.net>
+mouse_quadrature.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+archdep_fdopen.c;Bas Wassink <b.wassink@ziggo.nl>
+drive-snapshot.c;Andreas Boose <viceteam@t-online.de>
+drive-snapshot.c;groepaz <groepaz@gmx.net>
+c128fullbankswidget.c;Bas Wassink <b.wassink@ziggo.nl>
+fileio.h;Andreas Boose <viceteam@t-online.de>
+drive-sound.h;Kajtar Zsolt <soci@c64.rulez.org>
+rs232.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+sid-cmdline-options.c;Teemu Rantanen <tvr@cs.hut.fi>
+sid-cmdline-options.c;Ettore Perazzoli <ettore@comm2000.it>
+sid-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+sid-cmdline-options.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_cpm.c;Bas Wassink <b.wassink@ziggo.nl>
+mousedrv 3.h;Oliver Schaertel <orschaer@forwiss.uni-erlangen.de>
+rtc-72421.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+ocean.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4cpu.c;Andreas Boose <viceteam@t-online.de>
+spi-sdcard.c;Groepaz/Hitmen <groepaz@gmx.net>
+ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ui.c;Bas Wassink <b.wassink@ziggo.nl>
+ui.c;Marcus Sutton <loggedoubt@gmail.com>
+settings_speed.c;Bas Wassink <b.wassink@ziggo.nl>
+uicart.c;Bas Wassink <b.wassink@ziggo.nl>
+render1x1rgbi.h;groepaz <groepaz@gmx.net> based on the pal renderers written by
+render1x1rgbi.h;John Selck <graham@cruise.de>
+render1x1rgbi.h;Andreas Boose <viceteam@t-online.de>
+archdep_stat.c;Bas Wassink <b.wassink@ziggo.nl>
+driveidlemethodwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+parsid-win32-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+psid.h;Dag Lem <resid@nimrod.no>
+6510core.h;Ettore Perazzoli <ettore@comm2000.it>
+6510core.h;Andreas Boose <viceteam@t-online.de>
+vicii-color 2.c;John Selck <graham@cruise.de>
+drivetypes.h;Andreas Dehmel <dehmel@forwiss.tu-muenchen.de>
+drivetypes.h;Andreas Boose <viceteam@t-online.de>
+midi.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+rgcd.c;groepaz <groepaz@gmx.net>
+iec-c64exp.h;Andreas Boose <viceteam@t-online.de>
+tape-snapshot.c;Andreas Matthies <andreas.matthies@gmx.net>
+mouse_neos.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+driveramwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_expert.h;Bas Wassink <b.wassink@ziggo.nl>
+debugcart 2.c;groepaz <groepaz@gmx.net>
+delaep7x8.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_program_path.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4speech.c;groepaz <groepaz@gmx.net>
+raster-resources.c;Andreas Boose <viceteam@t-online.de>
+actions-datasette.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_get_vice_machinedir.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_c64dtvhw.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-fetch 2.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+vicii-fetch 2.c;Daniel Kahlin <daniel@kahlin.net>
+piacore.c;Jouko Valta <jopi@stekt.oulu.fi>
+piacore.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+uimachinemenu.c;Marcus Sutton <loggedoubt@gmail.com>
+uimachinemenu.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_exit.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_exit.h;Blacky Stardust
+archdep_xdg.c;Bas Wassink <b.wassink@ziggo.nl>
+c128-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+c128-cmdline-options.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+crtc-draw.c;Ettore Perazzoli <ettore@comm2000.it>
+crtc-draw.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+settings_mixer.h;Bas Wassink <b.wassink@ziggo.nl>
+c128meminit.h;Andreas Boose <viceteam@t-online.de>
+cbm2model.h;groepaz <groepaz@gmx.net>
+autostart-prg.h;Christian Vogelgsang <chris@vogelgsang.org>
+gcr.h;Andreas Boose <viceteam@t-online.de>
+gcr.h;Daniel Sladic <sladic@eecg.toronto.edu>
+tcbm-resources.h;Andreas Boose <viceteam@t-online.de>
+cardkey.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c128video.c;Andreas Boose <viceteam@t-online.de>
+serial-iec-device.c;Andreas Boose <viceteam@t-online.de>
+serial-iec-device.c;David Hansel <david@hansels.net>
+settings_mmcr.c;Bas Wassink <b.wassink@ziggo.nl>
+iec128dcr-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+render2x2palu.c;John Selck <graham@cruise.de>
+console_none.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+settings_hotkeys.h;Bas Wassink <b.wassink@ziggo.nl>
+supersnapshot4.h;Andreas Boose <viceteam@t-online.de>
+supersnapshot4.h;Groepaz <groepaz@gmx.net>
+vice_gtk3_settings.h;Bas Wassink <b.wassink@ziggo.nl>
+cp-clockf83.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4-generic.c;groepaz <groepaz@gmx.net>
+diskconstants.h;Andreas Boose <viceteam@t-online.de>
+vic-resources.h;Andreas Boose <viceteam@t-online.de>
+userport.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_ramcart.h;Bas Wassink <b.wassink@ziggo.nl>
+realdevice.h;Andreas Boose <viceteam@t-online.de>
+interrupt.h;Ettore Perazzoli <ettore@comm2000.it>
+interrupt.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+interrupt.h;Andreas Boose <viceteam@t-online.de>
+vic20iec.c;Andreas Boose <viceteam@t-online.de>
+vic20iec.c;Daniel Sladic <sladic@eecg.toronto.edu>
+vic20iec.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vic.h;Ettore Perazzoli <ettore@comm2000.it>
+canvasrenderfilterwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_edit.h;groepaz <groepaz@gmx.net>
+joyport.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+ted-fetch.h;Andreas Boose <viceteam@t-online.de>
+ted-fetch.h;Ettore Perazzoli <ettore@comm2000.it>
+c64-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+scpu64ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+scpu64ui.c;Bas Wassink <b.wassink@ziggo.nl>
+alarm.c;Ettore Perazzoli <ettore@comm2000.it>
+alarm.c;Andreas Boose <viceteam@t-online.de>
+archdep_create_user_cache_dir.c;Bas Wassink <b.wassink@ziggo.nl>
+uitapecreate.h;Bas Wassink <b.wassink@ziggo.nl>
+drive-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+uimsgbox.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uimsgbox.c;Greg King <greg.king5@verizon.net>
+archdep_file_is_chardev.h;Bas Wassink <b.wassink@ziggo.nl>
+ltkernal.h;Roberto Muscedere <rmusced@uwindsor.ca>
+cbm2hardwiredswitcheswidget.c;Bas Wassink <b.wassink@ziggo.nl>
+resourcebrowser.c;Bas Wassink <b.wassink@ziggo.nl>
+uisidattach.c;Bas Wassink <b.wassink@ziggo.nl>
+debugcart 4.h;groepaz <groepaz@gmx.net>
+joystickmenupopup.c;*  \author Bas Wassink <b.wassink@ziggo.nl>
+plus4-resources.h;Andreas Boose <viceteam@t-online.de>
+plus4-resources.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cs8900io.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+blackbox8.h;groepaz <groepaz@gmx.net>
+petdww.h;Olaf 'Rhialto' Seibert <rhialto@falu.nl>
+opengl_renderer.h;David Hogan <david.q.hogan@gmail.com>
+uihotkey.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+fdc.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+cbm2iec.c;Daniel Sladic <sladic@eecg.toronto.edu>
+cbm2iec.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+petui.h;Ettore Perazzoli <ettore@comm2000.it>
+petui.h;Andreas Boose <viceteam@t-online.de>
+rexutility.c;Andreas Boose <viceteam@t-online.de>
+iecieee.c;Andreas Boose <viceteam@t-online.de>
+petdwwwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vicii-draw-cycle.c;Daniel Kahlin <daniel@kahlin.net>
+functionrom.h;Andreas Boose <viceteam@t-online.de>
+functionrom.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+render_thread.h;David Hogan <david.q.hogan@gmail.com>
+cbm2-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+riot2d.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+riot2d.c;Andreas Boose <viceteam@t-online.de>
+scpu64cpu.h;Kajtar Zsolt <soci@c64.rulez.org>
+plus4tcbm.h;Andreas Boose <viceteam@t-online.de>
+userport_io_sim.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_sampler.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+rs232net.h;Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+videopalettewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+fsdevice-open.c;Andreas Boose <viceteam@t-online.de>
+fsdevice-open.c;Teemu Rantanen <tvr@cs.hut.fi>
+fsdevice-open.c;Jarkko Sonninen <sonninen@lut.fi>
+fsdevice-open.c;Jouko Valta <jopi@stekt.oulu.fi>
+fsdevice-open.c;Olaf Seibert <rhialto@mbfys.kun.nl>
+fsdevice-open.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+fsdevice-open.c;Ettore Perazzoli <ettore@comm2000.it>
+fsdevice-open.c;pottendo <pottendo@gmx.net>
+dirmenupopup.h;*  \author Bas Wassink <b.wassink@ziggo.nl>
+archdep_ftello.c;Bas Wassink <b.wassink@ziggo.nl>
+render_queue.c;David Hogan <david.q.hogan@gmail.com>
+mainc64cpu.c;Ettore Perazzoli <ettore@comm2000.it>
+mainc64cpu.c;Andreas Boose <viceteam@t-online.de>
+c64gluelogic.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+via1d1541.c;Andreas Boose <viceteam@t-online.de>
+via1d1541.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+via1d1541.c;Daniel Sladic <sladic@eecg.toronto.edu>
+via1d1541.c;Ettore Perazzoli <ettore@comm2000.it>
+sysfile.h;Ettore Perazzoli <ettore@comm2000.it>
+soundalsa.c;Dag Lem <resid@nimrod.no>
+viciidtv-draw.c;Andreas Boose <viceteam@t-online.de>
+viciidtv-draw.c;Ettore Perazzoli <ettore@comm2000.it>
+charset.c;Jouko Valta <jopi@stekt.oulu.fi>
+charset.c;Andreas Boose <viceteam@t-online.de>
+attach.c;Andreas Boose <viceteam@t-online.de>
+menu_petcart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+tcbmrom.c;Andreas Boose <viceteam@t-online.de>
+kbdmappingwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+c64dtvprinter.c;Andreas Boose <viceteam@t-online.de>
+c64scmodel.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+c64scmodel.c;groepaz <groepaz@gmx.net>
+c64scmodel.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_filename_parameter.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_ieeeflash64.c;Christopher Bongaarts <cab@bongalow.net>
+c128ui.h;Ettore Perazzoli <ettore@comm2000.it>
+c128ui.h;Andreas Boose <viceteam@t-online.de>
+io-beos-access.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uicmdline.h;Andreas Boose <viceteam@t-online.de>
+uicmdline.h;Ettore Perazzoli <ettore@comm2000.it>
+archdep_is_haiku.h;groepaz <groepaz@gmx.net>
+vicii-irq 2.h;Andreas Boose <viceteam@t-online.de>
+datasette-sound.h;Fabrizio Gennari <fabrizio.ge@tiscali.it>
+rawnetarch.h;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+menu_ethernetcart.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_ethernetcart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vdc-resources.h;Andreas Boose <viceteam@t-online.de>
+rotation.c;Andreas Boose <viceteam@t-online.de>
+render1x1pal.c;John Selck <graham@cruise.de>
+drv-ascii.c;Andreas Boose <viceteam@t-online.de>
+drv-ascii.c;groepaz <groepaz@gmx.net>
+settings_ramreset.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_ramreset.c;groepaz <groepaz@gmx.net>
+settings_mmc64.h;Bas Wassink <b.wassink@ziggo.nl>
+drivedoswidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vicii-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+vicii-snapshot.c;Andreas Boose <viceteam@t-online.de>
+hardsid.h;Andreas Boose <viceteam@t-online.de>
+hardsid.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vdrive-dir.h;Andreas Boose <viceteam@t-online.de>
+cx21.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+resid.h;Teemu Rantanen <tvr@cs.hut.fi>
+archdep_spawn.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_spawn.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_is_windows_nt.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+cmdline.c;Ettore Perazzoli <ettore@comm2000.it>
+cmdline.c;Andreas Boose <viceteam@t-online.de>
+soundbuffersizewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_fix_permissions.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+plus4ui.c;Bas Wassink <b.wassink@ziggo.nl>
+maxbasic.h;groepaz <groepaz@gmx.net>
+soundoutputmodewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+freezeframe2.h;Groepaz <groepaz@gmx.net>
+c64sound.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64meminit.c;Andreas Boose <viceteam@t-online.de>
+c64meminit.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ps2mouse.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+vdc-cmdline-options.c;Ettore Perazzoli <ettore@comm2000.it>
+vdc-cmdline-options.c;Markus Brenner <markus@brenner.de>
+vdc-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+gs.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+rawfile.h;Andreas Boose <viceteam@t-online.de>
+ted-resources.h;Andreas Boose <viceteam@t-online.de>
+c128mem.h;Andreas Boose <viceteam@t-online.de>
+c128mem.h;Ettore Perazzoli <ettore@comm2000.it>
+c128mem.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+pet-snapshot.h;Andreas Boose <viceteam@t-online.de>
+silverrock128.h;Uffe Jakobsen <microtop@starion.dk>
+renderscale2x.h;Andreas Matthies <andreas.matthies@gmx.net>
+resourceswitch.h;Bas Wassink <b.wassink@ziggo.nl>
+drivesync.h;Andreas Boose <viceteam@t-online.de>
+c1541-stubs.c;groepaz <groepaz@gmx.net>
+machine-bus.c;Andreas Boose <viceteam@t-online.de>
+lastdir.h;Bas Wassink <b.wassink@ziggo.nl>
+scpu64mem.h;Kajtar Zsolt <soci@c64.rulez.org>
+scpu64mem.h;Andreas Boose <viceteam@t-online.de>
+scpu64mem.h;Ettore Perazzoli <ettore@comm2000.it>
+vic-cmdline-options.c;Ettore Perazzoli <ettore@comm2000.it>
+vic-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+freezeframe.c;Groepaz <groepaz@gmx.net>
+selectdirectorydialog.h;Bas Wassink <b.wassink@ziggo.nl>
+tape_diag_586220_harness.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+clockport.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+m3u.h;Bas Wassink <b.wassink@ziggo.nl>
+vsidui 3.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+m93c86.h;Groepaz/Hitmen <groepaz@gmx.net>
+videomodelwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+joystick_osx.c;Christian Vogelgsang <chris@vogelgsang.org>
+petramawidget.h;Bas Wassink <b.wassink@ziggo.nl>
+petramawidget.h;Andre Fachat <fachat@web.de>
+plus4memcsory256k.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64iec.c;Andreas Boose <viceteam@t-online.de>
+c64iec.c;Daniel Sladic <sladic@eecg.toronto.edu>
+c64iec.c;Ettore Perazzoli <ettore@comm2000.it>
+c64iec.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c64iec.c;Teemu Rantanen <tvr@cs.hut.fi>
+bugs.c;Bas Wassink <b.wassink@ziggo.nl>
+retroreplay.c;Andreas Boose <viceteam@t-online.de>
+retroreplay.c;groepaz <groepaz@gmx.net>
+archdep_extra_title_text.h;Bas Wassink <b.wassink@ziggo.nl>
+ieee-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+c64_256k.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_gmod2c128.c;Bas Wassink <b.wassink@ziggo.nl>
+lamelib.c;Christian Vogelgsang <chris@vogelgsang.org>
+sdlmain.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+sdlmain.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64cart.c;Andreas Boose <viceteam@t-online.de>
+speedwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+drv-raw.h;Andreas Boose <viceteam@t-online.de>
+drv-raw.h;groepaz <groepaz@gmx.net>
+settings_ds12c887.c;Bas Wassink <b.wassink@ziggo.nl>
+ethernetcart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_video.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uimachinewindow.c;Marcus Sutton <loggedoubt@gmail.com>
+uimachinewindow.c;Michael C. Martin <mcmartin@gmail.com>
+petui 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+petui 2.c;Bas Wassink <b.wassink@ziggo.nl>
+ramcart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+petbus.c;Andreas Boose <viceteam@t-online.de>
+drivemodelwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+petmiscwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+joystick.c;Andreas Boose <viceteam@t-online.de>
+joystick.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+asmR65C02.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+dolphindos3.h;Andreas Boose <viceteam@t-online.de>
+dolphindos3.h;groepaz <groepaz@gmx.net>
+settings_drive.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep 3.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep 3.c;Bas Wassink <b.wassink@ziggo.nl>
+zippcode48.h;groepaz <groepaz@gmx.net>
+archdep_default_joymap_file_name.h;Bas Wassink <b.wassink@ziggo.nl>
+multijoy.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_gmod2.c;Bas Wassink <b.wassink@ziggo.nl>
+vsidmeminit.c;Andreas Boose <viceteam@t-online.de>
+vsidmeminit.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+bmpdrv.c;Andreas Boose <viceteam@t-online.de>
+plus4acia.c;Andreas Boose <viceteam@t-online.de>
+plus4acia.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+plus4acia.c;Groepaz <groepaz@gmx.net>
+plus4acia.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vsidplaylistadddialog.h;Bas Wassink <b.wassink@ziggo.nl>
+actions-display.c;Bas Wassink <b.wassink@ziggo.nl>
+actionreplay.c;Andreas Boose <viceteam@t-online.de>
+pci-unix-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64.c;Andreas Boose <viceteam@t-online.de>
+c64.c;Ettore Perazzoli <ettore@comm2000.it>
+c64.c;Teemu Rantanen <tvr@cs.hut.fi>
+c64.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+printeroutputdevicewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_path_is_relative.h;Bas Wassink <b.wassink@ziggo.nl>
+vic20cart.c;Daniel Kahlin <daniel@kahlin.net>
+petreuwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+hotkeys.c;Bas Wassink <b.wassink@ziggo.nl>
+driverom.h;Andreas Boose <viceteam@t-online.de>
+vsid-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+vsid-cmdline-options.h;Ettore Perazzoli <ettore@comm2000.it>
+vsid-cmdline-options.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+scpu64settingswidget.c;Bas Wassink <b.wassink@ziggo.nl>
+montypes.h;Daniel Sladic <sladic@eecg.toronto.edu>
+montypes.h;Ettore Perazzoli <ettore@comm2000.it>
+montypes.h;Andreas Boose <viceteam@t-online.de>
+kbdbuf.c;Ettore Perazzoli <ettore@comm2000.it>
+kbdbuf.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+kbdbuf.c;Andreas Boose <viceteam@t-online.de>
+sfx_soundexpander.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+interface-userport.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+interface-userport.c;Andreas Boose <viceteam@t-online.de>
+interface-userport.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+t64.c;Ettore Perazzoli <ettore@comm2000.it>
+t64.c;Andreas Boose <viceteam@t-online.de>
+t64.c;Compyx <b.wassink@ziggo.nl>
+diskcontents-block.h;Andreas Boose <viceteam@t-online.de>
+final3.h;Andreas Boose <viceteam@t-online.de>
+final3.h;groepaz <groepaz@gmx.net>
+fsimage-create.h;Andreas Boose <viceteam@t-online.de>
+ide64.c;Kajtar Zsolt <soci@c64.rulez.org>
+exos.c;groepaz <groepaz@gmx.net>
+turtlegraphics.c;groepaz <groepaz@gmx.net>
+midi-unix-drv.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+midi-unix-drv.c;Dirk Jagdmann <doj@cubic.org>
+memiec.c;Andreas Boose <viceteam@t-online.de>
+menu_drive_rom.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64parallel.h;Andreas Boose <viceteam@t-online.de>
+uimedia.c;Bas Wassink <b.wassink@ziggo.nl>
+bbrtc.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mon_breakpoint.c;Andreas Boose <viceteam@t-online.de>
+mon_breakpoint.c;Daniel Sladic <sladic@eecg.toronto.edu>
+mon_breakpoint.c;Ettore Perazzoli <ettore@comm2000.it>
+vdctypes.h;Markus Brenner <markus@brenner.de>
+vdctypes.h;Ettore Perazzoli <ettore@comm2000.it>
+vdctypes.h;Andreas Boose <viceteam@t-online.de>
+vdctypes.h;Errol Smith <strobey@users.sourceforge.net>
+iec128dcrrom.c;Andreas Boose <viceteam@t-online.de>
+via2d.c;Andreas Boose <viceteam@t-online.de>
+via2d.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+via2d.c;Daniel Sladic <sladic@eecg.toronto.edu>
+via2d.c;Ettore Perazzoli <ettore@comm2000.it>
+plus4mem.c;Andreas Boose <viceteam@t-online.de>
+plus4mem.c;Tibor Biczo <crown@axelero.hu>
+plus4mem.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+actions-joystick.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_close.c;Bas Wassink <b.wassink@ziggo.nl>
+c128memlimit.c;Andreas Boose <viceteam@t-online.de>
+dynlib.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uicmdline 2.h;Bas Wassink <b.wassink@ziggo.nl>
+vic20-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+vic20-snapshot.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+vic20-snapshot.c;Andreas Boose <viceteam@t-online.de>
+shortbus.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+crtc-resources.c;Andreas Boose <viceteam@t-online.de>
+crtc-resources.c;Ettore Perazzoli <ettore@comm2000.it>
+crtc-resources.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c64-snapshot.c;Andreas Boose <viceteam@t-online.de>
+c64-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+ted-color.c;John Selck <graham@cruise.de>
+menu_settings.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+iec128dcr-resources.c;Andreas Boose <viceteam@t-online.de>
+vicii-draw 2.c;Andreas Boose <viceteam@t-online.de>
+vicii-draw 2.c;Ettore Perazzoli <ettore@comm2000.it>
+debug_gtk3.c;Bas Wassink <b.wassink@ziggo.nl>
+actions-vsid.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_remove.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_vic20cart.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_pethw.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64sc-stubs.c;groepaz <groepaz@gmx.net>
+partner64.h;groepaz <groepaz@gmx.net>
+sidmodelwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+iec-plus4exp.h;Andreas Boose <viceteam@t-online.de>
+plus4memrom.c;Andreas Boose <viceteam@t-online.de>
+mon_memmap.c;Hannu Nuotio <nojoopa@users.sourceforge.net>
+easyflash.h;ALeX Kazik <alx@kazik.de>
+easyflash.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+snapshot64.h;Groepaz <groepaz@gmx.net>
+partner128.c;groepaz <groepaz@gmx.net>
+cartio.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+iecrom.c;Andreas Boose <viceteam@t-online.de>
+rexep256.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mmcreplay.c;Groepaz/Hitmen <groepaz@gmx.net>
+acia.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+mem.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+mem.h;Ettore Perazzoli <ettore@comm2000.it>
+mem.h;Andreas Boose <viceteam@t-online.de>
+cbm5x0ui 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm5x0ui 2.c;Bas Wassink <b.wassink@ziggo.nl>
+vicii-color.h;John Selck <graham@cruise.de>
+vic20memsnapshot.h;Andreas Boose <viceteam@t-online.de>
+settings_sampler.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4memorysizewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+flash040.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+delaep256.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+tape-internal.h;Andreas Boose <viceteam@t-online.de>
+mon_disassemble.h;Daniel Sladic <sladic@eecg.toronto.edu>
+mon_disassemble.h;Ettore Perazzoli <ettore@comm2000.it>
+mon_disassemble.h;Andreas Boose <viceteam@t-online.de>
+driverpmwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+c64dtvmodel.c;groepaz <groepaz@gmx.net>
+menu_cbm2hw.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+raster-cache-fill-1fff.h;Andreas Boose <viceteam@t-online.de>
+raster-cache-fill-1fff.h;Ettore Perazzoli <ettore@comm2000.it>
+c128-snapshot.c;Andreas Boose <viceteam@t-online.de>
+c128-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+prophet64.h;Groepaz <groepaz@gmx.net>
+c128rom.c;Andreas Boose <viceteam@t-online.de>
+archdep_icon_path.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_get_current_drive.c;Unknown (probably copied from old SDL code)
+jamactionwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_c64cart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_c64cart.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_plus4hw.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+socket-win32-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_scpu64hw.c;Marco van den Heuevel <blackystardust68@yahoo.com>
+menu_ram.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+kbd.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+kbd.c;Michael C. Martin <mcmartin@gmail.com>
+kbd.c;Oliver Schaertel
+kbd.c;pottendo <pottendo@gmx.net>
+kbd.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_usleep.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_usleep.c;Bas Wassink <b.wassink@ziggo.nl>
+menu_rs232.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+vicii-timing 2.h;Andreas Boose <viceteam@t-online.de>
+userportdeviceswidget.h;Bas Wassink <b.wassink@ziggo.nl>
+c128machinetypewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+tapeport.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2acia.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+romset.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+romset.c;Andreas Boose <viceteam@t-online.de>
+plus4memhannes256k.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+uihotkeyssave.h;Bas Wassink <b.wassink@ziggo.nl>
+scpu64rom.c;Andreas Boose <viceteam@t-online.de>
+uifonts.c;groepaz <groepaz@gmx.net>
+drv-nl10.c;David Hansel <david@hansels.net>
+digiblaster.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+psid 2.h;Bas Wassink <b.wassink@ziggo.nl>
+c64dtvmem.h;M.Kiesel <mayne@users.sourceforge.net>
+menu_tape.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_tape.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic-snapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+vicefeatures.h;groepaz <groepaz@gmx.net>
+vicefeatures.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+scpu64-cmdline-options.c;Kajtar Zsolt <soci@c64.rulez.org>
+scpu64-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+scpu64-cmdline-options.c;Ettore Perazzoli <ettore@comm2000.it>
+vicii-cmdline-options.h;Ettore Perazzoli <ettore@comm2000.it>
+vicii-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+ui 3.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ui 3.c;Bas Wassink <b.wassink@ziggo.nl>
+ui 3.c;Marcus Sutton <loggedoubt@gmail.com>
+resourcespinbutton.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_dqbb.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_userport.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+gfxoutput.c;Andreas Boose <viceteam@t-online.de>
+gfxoutput.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uihotkeysload.h;Bas Wassink <b.wassink@ziggo.nl>
+traps.h;Teemu Rantanen <tvr@cs.hut.fi>
+traps.h;Jarkko Sonninen <sonninen@lut.fi>
+traps.h;Andreas Boose <viceteam@t-online.de>
+vsidsound.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+machine-drive.h;Andreas Boose <viceteam@t-online.de>
+petcolourgraphicswidget.h;Bas Wassink <b.wassink@ziggo.nl>
+tap.h;Andreas Boose <viceteam@t-online.de>
+settings_ethernet.h;Bas Wassink <b.wassink@ziggo.nl>
+render1x1.c;John Selck <graham@cruise.de>
+archdep_rmdir.c;Bas Wassink <b.wassink@ziggo.nl>
+hs-beos-isa.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64dtvflash.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+c64dtvflash.c;Daniel Kahlin <daniel@kahlin.net>
+c64dtvcia2.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c64dtvcia2.c;Ettore Perazzoli <ettore@comm2000.it>
+c64dtvcia2.c;Andreas Boose <viceteam@t-online.de>
+c64dtvcia2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+realimage.h;Andreas Boose <viceteam@t-online.de>
+iec-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+userport_joystick.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2rammappingwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+vdrive-iec.h;Andreas Boose <viceteam@t-online.de>
+drivemem.c;Andreas Boose <viceteam@t-online.de>
+uivideo.h;Bas Wassink <b.wassink@ziggo.nl>
+vdc-color.c;groepaz <groepaz@gmx.net>
+drivecpu65c02.h;Kajtar Zsolt <soci@c64.rulez.org>
+video-render-rgbi.c;groepaz <groepaz@gmx.net>
+video-render-rgbi.c;John Selck <graham@cruise.de>
+video-render-rgbi.c;Dag Lem <resid@nimrod.no>
+video-render-rgbi.c;Andreas Boose <viceteam@t-online.de>
+warpspeed.h;groepaz <groepaz@gmx.net>
+raster-cache-fill-39ff.h;Andreas Boose <viceteam@t-online.de>
+uimon-fallback.c;Fabrizio Gennari <fabrizio.ge@tiscali.it>
+cia1581d.c;Andreas Boose <viceteam@t-online.de>
+sid-snapshot.h;Andreas Boose <viceteam@t-online.de>
+sid-snapshot.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c128.h;Andreas Boose <viceteam@t-online.de>
+c128.h;Ettore Perazzoli <ettore@comm2000.it>
+c128.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+icon.c;groepaz <groepaz@gmx.net>
+icon.c;Bas Wassink <b.wassink@ziggo.nl>
+c64cartsystem.h;groepaz <groepaz@gmx.net>
+c64memsnapshot.c;Andreas Boose <viceteam@t-online.de>
+c64memsnapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+archdep_ethernet_available.c;Bas Wassink <b.wassink@ziggo.nl>
+soundvoc.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64datasette.c;Andreas Boose <viceteam@t-online.de>
+c64datasette.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ieeerom.h;Andreas Boose <viceteam@t-online.de>
+info.h;Ettore Perazzoli <ettore@comm2000.it>
+info.h;Andreas Boose <viceteam@t-online.de>
+info.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-cycle.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+plus4rom.h;Andreas Boose <viceteam@t-online.de>
+drv-1520.h;Olaf Seibert <rhialto@falu.nl>
+vdc-snapshot.h;Ettore Perazzoli <ettore@comm2000.it>
+vdc-snapshot.h;Markus Brenner <markus@brenner.de>
+vdc-snapshot.h;Andreas Boose <viceteam@t-online.de>
+vic20ui 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20ui 2.c;Bas Wassink <b.wassink@ziggo.nl>
+warpspeed128.c;groepaz <groepaz@gmx.net>
+fixpoint.c;Andreas Dehmel <dehmel@forwiss.tu-muenchen.de>
+archdep_home_path.c;Bas Wassink <b.wassink@ziggo.nl>
+c64rsuser.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+vic20-midi.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+vic20-midi.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+jacint1mb.h;groepaz <groepaz@gmx.net>
+pethre.c;Olaf 'Rhialto' Seibert <rhialto@falu.nl>
+cwdwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+mouse_paddle.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mouse_paddle.c;Andreas Boose <viceteam@t-online.de>
+kbd 2.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20datasette.c;Andreas Boose <viceteam@t-online.de>
+vic20datasette.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_real_path.h;Michael C. Martin <mcmartin@gmail.com>
+archdep_user_cache_path.c;Bas Wassink <b.wassink@ziggo.nl>
+raster-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+menu_media.h;Bas Wassink <b.wassink@ziggo.nl>
+init.h;Andreas Boose <viceteam@t-online.de>
+raster-sprite.h;Ettore Perazzoli <ettore@comm2000.it>
+archdep_getcwd.c;Bas Wassink <b.wassink@ziggo.nl>
+video-resources.c;John Selck <graham@cruise.de>
+video-resources.c;Andreas Boose <viceteam@t-online.de>
+video-resources.c;Bas Wassink <b.wassink@ziggo.nl>
+c64ui 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64ui 2.c;Bas Wassink <b.wassink@ziggo.nl>
+statusbarrecordingwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+video-render.h;John Selck <graham@cruise.de>
+video-render.h;Andreas Boose <viceteam@t-online.de>
+resourcehelpers.c;Bas Wassink <b.wassink@ziggo.nl>
+cbm2printer.c;Andreas Boose <viceteam@t-online.de>
+petmemsnapshot.h;Andreas Boose <viceteam@t-online.de>
+snapshot.h;Ettore Perazzoli <ettore@comm2000.it>
+snapshot.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+petram9widget.h;Bas Wassink <b.wassink@ziggo.nl>
+petram9widget.h;Andre Fachat <fachat@web.de>
+cbm2cpu.c;Ettore Perazzoli <ettore@comm2000.it>
+cbm2cpu.c;Andreas Boose <viceteam@t-online.de>
+soundmovie.c;Andreas Matthies <andreas.matthies@gmx.net>
+soundmovie.c;Christian Vogelgsang <chris@vogelgsang.org>
+vsid-snapshot.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+tape.h;Jouko Valta <jopi@stekt.oulu.fi>
+tape.h;Andreas Boose <viceteam@t-online.de>
+crc32.h;Spiro Trikaliotis <Spiro.Trikaliotis@gmx.de>
+crc32.h;Andreas Boose <viceteam@t-online.de>
+riot.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+riot.h;Andreas Boose <viceteam@t-online.de>
+stil.h;Bas Wassink <b.wassink@ziggo.nl>
+vic20drive.c;Andreas Boose <viceteam@t-online.de>
+hs-unix-isa.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+dynlib-unix.c;Christian Vogelgsang <chris@vogelgsang.org>
+tcbm-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+joystickautofirewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+uivsidwindow.c;Marcus Sutton <loggedoubt@gmail.com>
+uivsidwindow.c;Bas Wassink <b.wassink@ziggo.nl>
+fsimage-gcr.h;Andreas Boose <viceteam@t-online.de>
+rs232-unix-dev.c;Andre Fachat <fachat@web.de>
+archdep_default_resource_file_name.h;Bas Wassink <b.wassink@ziggo.nl>
+blackbox9.c;Kamil Zbrog <kamil.zbrog@gmail.com>
+settings_fsdevice.h;Bas Wassink <b.wassink@ziggo.nl>
+vic20ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20ui.c;Bas Wassink <b.wassink@ziggo.nl>
+easycalc.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+debugcart 5.c;groepaz <groepaz@gmx.net>
+rs232dev.h;Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+archdep_rtc_get_centisecond.c;groepaz <groepaz@gmx.net>
+magicdesk.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+basedialogs.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_debug.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64dtv.c;Andreas Boose <viceteam@t-online.de>
+c64dtv.c;Ettore Perazzoli <ettore@comm2000.it>
+c64dtv.c;Teemu Rantanen <tvr@cs.hut.fi>
+c64dtv.c;Daniel Kahlin <daniel@kahlin.net>
+c64dtv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2datasette.c;Andreas Boose <viceteam@t-online.de>
+cbm2datasette.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uiabout.c;Bas Wassink <b.wassink@ziggo.nl>
+uiabout.c;Greg King <gregdk@users.sf.net>
+c1541.c;Ettore Perazzoli <ettore@comm2000.it>
+c1541.c;Teemu Rantanen <tvr@cs.hut.fi>
+c1541.c;Jouko Valta <jopi@zombie.oulu.fi>
+c1541.c;Gerhard Wesp <gwesp@cosy.sbg.ac.at>
+c1541.c;Daniel Sladic <sladic@eecg.toronto.edu>
+c1541.c;Ricardo Ferreira <storm@esoterica.pt>
+c1541.c;Andreas Boose <viceteam@t-online.de>
+c1541.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_georam.c;Bas Wassink <b.wassink@ziggo.nl>
+parallel.h;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+settings_vicflashplugin.c;Bas Wassink <b.wassink@ziggo.nl>
+glue1551.c;Andreas Boose <viceteam@t-online.de>
+c64dtvblitter.c;M.Kiesel <mayne@users.sourceforge.net>
+c64dtvblitter.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+c64dtvblitter.c;Daniel Kahlin <daniel@kahlin.net>
+vsidcontrolwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+sdbox.c;groepaz <groepaz@gmx.net>
+plus4-snapshot.h;Andreas Boose <viceteam@t-online.de>
+actions-machine.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_mouse.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+uipoll.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+h6809regs.h;Olaf Seibert <rhialto@falu.nl>
+h6809regs.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+blackbox3.c;groepaz <groepaz@gmx.net>
+ultimem.c;Marko Makela <marko.makela@iki.fi>
+ninja_snespad.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+spaceballs.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vdc-draw.c;Andreas Boose <viceteam@t-online.de>
+vdc-draw.c;Ettore Perazzoli <ettore@comm2000.it>
+vdc-draw.c;Markus Brenner <markus@brenner.de>
+ted-mem.c;Andreas Boose <viceteam@t-online.de>
+ted-mem.c;Ettore Perazzoli <ettore@comm2000.it>
+ted-mem.c;Tibor Biczo <crown@axelero.hu>
+pcf8583.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+gmod2c128.h;groepaz <groepaz@gmx.net>
+raster-sprite-cache.h;Ettore Perazzoli <ettore@comm2000.it>
+raster-sprite-cache.h;Andreas Boose <viceteam@t-online.de>
+dqbb.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-mem 2.h;Ettore Perazzoli <ettore@comm2000.it>
+vicii-mem 2.h;Andreas Boose <viceteam@t-online.de>
+vic20cpu.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+vic-timing.c;groepaz <groepaz@gmx.net>
+drivefsdevicewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+diskcontents.c;Ettore Perazzoli <ettore@comm2000.it>
+diskcontents.c;Andreas Boose <viceteam@t-online.de>
+diskcontents.c;Tibor Biczo <crown@mail.matav.hu>
+c64cartmem.c;Andreas Boose <viceteam@t-online.de>
+settings_misc.h;Bas Wassink <b.wassink@ziggo.nl>
+vsidmainwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vicii-mem.h;Ettore Perazzoli <ettore@comm2000.it>
+vicii-mem.h;Andreas Boose <viceteam@t-online.de>
+fsdevice-write.h;Andreas Boose <viceteam@t-online.de>
+iffdrv.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c128mmu.c;Andreas Boose <viceteam@t-online.de>
+c128mmu.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+protopad.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+ieee.h;Andreas Boose <viceteam@t-online.de>
+monitor_binary.c;*  \author EmpathicQubit <empathicqubit@entan.gl>
+fsimage-check.h;Andreas Boose <viceteam@t-online.de>
+sidenginemodelwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+vsidcia1.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+resid.cc;Teemu Rantanen <tvr@cs.hut.fi>
+resid.cc;Dag Lem <resid@nimrod.no>
+resid.cc;Andreas Boose <viceteam@t-online.de>
+settings_printer.h;Bas Wassink <b.wassink@ziggo.nl>
+vic20via.h;Andreas Boose <viceteam@t-online.de>
+vic20via.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+scsi.h;Roberto Muscedere <rmusced@uwindsor.ca>
+petdiagpinwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+uisnapshot.h;Bas Wassink <b.wassink@ziggo.nl>
+uismartattach.c;Bas Wassink <b.wassink@ziggo.nl>
+actions-snapshot.c;Bas Wassink <b.wassink@ziggo.nl>
+hs-unix.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+viciidtv-color.c;Daniel Kahlin <daniel@kahlin.net>
+plus4memhacks.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+cbm2.c;Andreas Boose <viceteam@t-online.de>
+cbm2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vfliwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vsync.c;Ettore Perazzoli <ettore@comm2000.it>
+vsync.c;Teemu Rantanen <tvr@cs.hut.fi>
+vsync.c;Andreas Boose <viceteam@t-online.de>
+vsync.c;Dag Lem <resid@nimrod.no>
+vsync.c;Thomas Bretz <tbretz@gsi.de>
+cbm2-stubs.c;groepaz <groepaz@gmx.net>
+archdep_set_openmp_wait_policy.h;groepaz <groepaz@gmx.net>
+soundmp3.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+sfx_soundsampler.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+pet.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+pet.h;Andreas Boose <viceteam@t-online.de>
+pet.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+debugcart 3.h;groepaz <groepaz@gmx.net>
+crtc-cmdline-options.c;Ettore Perazzoli <ettore@comm2000.it>
+crtc-cmdline-options.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+crtc-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+clockportdevicewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_file_is_blockdev.h;Bas Wassink <b.wassink@ziggo.nl>
+ted-badline.c;Andreas Boose <viceteam@t-online.de>
+vsidmemsnapshot.c;Andreas Boose <viceteam@t-online.de>
+vsidmemsnapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+vsidmemsnapshot.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+uimon 2.c;Fabrizio Gennari <fabrizio.ge@tiscali.it>
+ffmpeglib.h;Andreas Matthies <andreas.matthies@gmx.net>
+stardos-exp.c;groepaz <groepaz@gmx.net>
+aciawidget.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4iec.c;Andreas Boose <viceteam@t-online.de>
+iec128dcr.h;Andreas Boose <viceteam@t-online.de>
+plus4pio1.h;Andreas Boose <viceteam@t-online.de>
+plus4pio1.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vkbd.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+drivenowidget.c;Andre Fachat
+fdd.c;Kajtar Zsolt <soci@c64.rulez.org>
+ted.c;Andreas Boose <viceteam@t-online.de>
+ted.c;Ettore Perazzoli <ettore@comm2000.it>
+ted.c;Tibor Biczo <crown@axelero.hu>
+xpet_ui.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+xpet_ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+directx_renderer.c;David Hogan <david.q.hogan@gmail.com>
+vsid-resources.c;Andreas Boose <viceteam@t-online.de>
+vsid-resources.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic-fp.h;Marko Makela <marko.makela@iki.fi>
+ffmpegdrv.c;Andreas Matthies <andreas.matthies@gmx.net>
+c64-stubs.c;groepaz <groepaz@gmx.net>
+petramsizewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+c64export.c;Andreas Boose <viceteam@t-online.de>
+c64export.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+paperclip64.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+datasette.h;Andreas Boose <viceteam@t-online.de>
+datasette.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+hvscstilwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_ethernet.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+video-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+drive-writeprotect.c;Andreas Boose <viceteam@t-online.de>
+sid 2.h;Dag Lem <resid@nimrod.no>
+sid 2.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64memlimit.h;Andreas Boose <viceteam@t-online.de>
+c64memlimit.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+uistatusbar 3.h;Michael C. Martin <mcmartin@gmail.com>
+uistatusbar 3.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4drive.c;Andreas Boose <viceteam@t-online.de>
+c64io.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+clockport-mp3at64.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+digimax.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_ltkernal.h;Bas Wassink <b.wassink@ziggo.nl>
+menu_c64_expansions.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_cbm5x0hw.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+comal80 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+flash040core.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+carthelpers.c;Bas Wassink <b.wassink@ziggo.nl>
+vdrive-snapshot.h;Andreas Boose <viceteam@t-online.de>
+ffmpegwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+petvia.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+petvia.c;Andreas Boose <viceteam@t-online.de>
+petvia.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+zipcode.h;Daniel Sladic <sladic@eecg.toronto.edu>
+actions-drive.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_quote_parameter.c;Bas Wassink <b.wassink@ziggo.nl>
+printerdriverwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+cbm2ui.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2ui.c;Bas Wassink <b.wassink@ziggo.nl>
+petreu.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+userport_dac.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+multimax.h;groepaz <groepaz@gmx.net>
+pet-cmdline-options.c;Andreas Boose <viceteam@t-online.de>
+pet-cmdline-options.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+pet-cmdline-options.c;Ettore Perazzoli <ettore@comm2000.it>
+zfile.h;Ettore Perazzoli <ettore@comm2000.it>
+zfile.h;Andreas Boose <viceteam@t-online.de>
+c64model.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+c64model.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+hs-win32-pci.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+isepic.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+rtc-58321a.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mousedrv 2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_speed.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2memorysizewidget.h;Bas Wassink <b.wassink@ziggo.nl>
+c64mem.c;Andreas Boose <viceteam@t-online.de>
+c64mem.c;Ettore Perazzoli <ettore@comm2000.it>
+c64mem.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_ieee488.h;Bas Wassink <b.wassink@ziggo.nl>
+actions-clipboard.c;Bas Wassink <b.wassink@ziggo.nl>
+v364speechwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+ps-win32.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64dtvmemrom.c;M.Kiesel <mayne@users.sourceforge.net>
+hvscsettingswidget.h;Bas Wassink <b.wassink@ziggo.nl>
+vsid-stubs.c;groepaz <groepaz@gmx.net>
+vsid-stubs.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+drivewidgethelpers.c;Bas Wassink <b.wassink@ziggo.nl>
+vicieee488widget.h;Bas Wassink <b.wassink@ziggo.nl>
+vdc-mem.h;Ettore Perazzoli <ettore@comm2000.it>
+vdc-mem.h;Markus Brenner <markus@brenner.de>
+vdc-mem.h;Andreas Boose <viceteam@t-online.de>
+settings_keyboard.h;Bas Wassink <b.wassink@ziggo.nl>
+uidebug.c;Bas Wassink <b.wassink@ziggo.nl>
+vic20rsuser.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+resourceradiogroup.h;Bas Wassink <b.wassink@ziggo.nl>
+cbm2-snapshot.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+cbm2-snapshot.c;Andreas Boose <viceteam@t-online.de>
+drive-resources.h;Andreas Boose <viceteam@t-online.de>
+mon_file.c;Andreas Boose <viceteam@t-online.de>
+mon_file.c;Daniel Sladic <sladic@eecg.toronto.edu>
+mon_file.c;Ettore Perazzoli <ettore@comm2000.it>
+archdep_get_vice_drivesdir.h;Bas Wassink <b.wassink@ziggo.nl>
+cartconv.c;Marco van den heuvel <blackystardust68@yahoo.com>
+cartconv.c;groepaz <groepaz@gmx.net>
+userport_digimax.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+pci-beos-drv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+zaxxon.h;Andreas Boose <viceteam@t-online.de>
+serial-realdevice.c;Andreas Boose <viceteam@t-online.de>
+cbmfile.h;Andreas Boose <viceteam@t-online.de>
+mon_register.h;Andreas Boose <viceteam@t-online.de>
+archdep_current_dir.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_current_dir.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_current_dir.c;trikalio
+settings_io.c;Bas Wassink <b.wassink@ziggo.nl>
+finalexpansion.h;Daniel Kahlin <daniel@kahlin.net>
+settings_sfxsoundexpander.h;Bas Wassink <b.wassink@ziggo.nl>
+basewidgets.h;Bas Wassink <b.wassink@ziggo.nl>
+megacart.c;Daniel Kahlin <daniel@kahlin.net>
+fsdevice-close.h;Andreas Boose <viceteam@t-online.de>
+settings_ide64.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_file_size.h;Bas Wassink <b.wassink@ziggo.nl>
+petdrive.c;Andreas Boose <viceteam@t-online.de>
+ted-cmdline-options.h;Andreas Boose <viceteam@t-online.de>
+ted-cmdline-options.h;Ettore Perazzoli <ettore@comm2000.it>
+expert.h;Andreas Boose <viceteam@t-online.de>
+z80regs.h;Andreas Boose <viceteam@t-online.de>
+widgethelpers.h;Bas Wassink <b.wassink@ziggo.nl>
+via1d2031.c;Andreas Boose <viceteam@t-online.de>
+via1d2031.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+via1d2031.c;Daniel Sladic <sladic@eecg.toronto.edu>
+via1d2031.c;Ettore Perazzoli <ettore@comm2000.it>
+settings_ramlink.h;Bas Wassink <b.wassink@ziggo.nl>
+contentpreviewwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+monitor_network.c;*  \author Spiro Trikaliotis <spiro.trikaliotis@gmx.de>
+output-text.h;Andreas Boose <viceteam@t-online.de>
+printer-serial.c;Andreas Boose <viceteam@t-online.de>
+ds1307.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+gmod2.c;groepaz <groepaz@gmx.net>
+c64dtvflashsettingswidget.h;Bas Wassink <b.wassink@ziggo.nl>
+pcxdrv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_cbm2cart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64-generic.h;Andreas Boose <viceteam@t-online.de>
+mascuerade-stubs.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+mascuerade-stubs.h;Bas Wassink <b.wassink@ziggo.nl>
+vdcmodelwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+archdep_fix_streams.h;Bas Wassink <b.wassink@ziggo.nl>
+c64fastiec.h;Andreas Boose <viceteam@t-online.de>
+vice_gtk3_locking.h;David Hogan <david.q.hogan@gmail.com>
+z80.h;Andreas Boose <viceteam@t-online.de>
+ds1216e.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+settings_supersnapshot.c;Bas Wassink <b.wassink@ziggo.nl>
+userportprinterwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+drive.c;Andreas Boose <viceteam@t-online.de>
+vicii-phi1.c;Andreas Boose <viceteam@t-online.de>
+iec.h;Andreas Boose <viceteam@t-online.de>
+vdrive-rel.h;Andreas Boose <viceteam@t-online.de>
+vic20.c;Ettore Perazzoli <ettore@comm2000.it>
+vic20.c;Andreas Boose <viceteam@t-online.de>
+vic20.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+c64carthooks.c;Andreas Boose <viceteam@t-online.de>
+c64carthooks.c;groepaz <groepaz@gmx.net>
+vicedate.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-snapshot 2.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+settings_ethernetcart.c;Bas Wassink <b.wassink@ziggo.nl>
+settings_rrnetmk3.c;Bas Wassink <b.wassink@ziggo.nl>
+tapecontents.c;Ettore Perazzoli <ettore@comm2000.it>
+tapecontents.c;Andreas Boose <viceteam@t-online.de>
+tapecontents.c;Tibor Biczo <crown@mail.matav.hu>
+vic-mem.c;Ettore Perazzoli <ettore@comm2000.it>
+vic-mem.c;Andreas Matthies <andreas.matthies@gmx.net>
+vic-mem.c;Daniel Kahlin <daniel@kahlin.net>
+openfiledialog.h;Bas Wassink <b.wassink@ziggo.nl>
+actions-cartridge.c;Bas Wassink <b.wassink@ziggo.nl>
+keysetdialog.h;Bas Wassink <b.wassink@ziggo.nl>
+joystick_win32_directinput.c;Tibor Biczo <crown@mail.matav.hu>
+joystick_win32_directinput.c;Ettore Perazzoli <ettore@comm2000.it>
+parsid.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+menu_vic20hw.h;Hannu Nuotio <hannu.nuotio@tut.fi>
+menu_vic20hw.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+color.c;Andreas Boose <viceteam@t-online.de>
+c128cia1.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+c128cia1.c;Ettore Perazzoli <ettore@comm2000.it>
+c128cia1.c;Andreas Boose <viceteam@t-online.de>
+c128cia1.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+raster.c;Ettore Perazzoli <ettore@comm2000.it>
+raster.c;Andreas Boose <viceteam@t-online.de>
+kingsoft.h;Groepaz/Hitmen <groepaz@gmx.net>
+kbdlayoutwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_default_logger.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_default_logger.h;Bas Wassink <b.wassink@ziggo.nl>
+scpu64memsnapshot.c;Kajtar Zsolt <soci@c64.rulez.org>
+scpu64memsnapshot.c;Andreas Boose <viceteam@t-online.de>
+scpu64memsnapshot.c;Ettore Perazzoli <ettore@comm2000.it>
+menu_sound.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_get_runtime_info.c;Bas Wassink <b.wassink@ziggo.nl>
+soundwav.c;Teemu Rantanen <tvr@cs.hut.fi>
+soundwav.c;Dag Lem <resid@nimrod.no>
+video_sdl2.c;Hannu Nuotio <hannu.nuotio@tut.fi>
+video_sdl2.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+video_sdl2.c;Michael C. Martin <mcmartin@gmail.com>
+video_sdl2.c;June Tate-Gans <june@theonelab.com>
+cpmcart.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vsid-debugcart.c;groepaz <groepaz@gmx.net>
+plus4exp-resources.h;Andreas Boose <viceteam@t-online.de>
+sidsoundwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+c64dtvmeminit.c;Daniel Kahlin <daniel@kahlin.net>
+mainlock.h;David Hogan <david.q.hogan@gmail.com>
+mon_memory.c;Andreas Boose <viceteam@t-online.de>
+mon_memory.c;Daniel Sladic <sladic@eecg.toronto.edu>
+mon_memory.c;Ettore Perazzoli <ettore@comm2000.it>
+gifdrv.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_user_config_path.c;Bas Wassink <b.wassink@ziggo.nl>
+c64dtv-resources.c;Andreas Boose <viceteam@t-online.de>
+hs-beos.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+cbm2drive.c;Andreas Boose <viceteam@t-online.de>
+magiccart.h;groepaz <groepaz@gmx.net>
+c64ui.h;Ettore Perazzoli <ettore@comm2000.it>
+c64ui.h;Andreas Boose <viceteam@t-online.de>
+plus256k.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+main 2.c;Ettore Perazzoli <ettore@comm2000.it>
+main 2.c;Teemu Rantanen <tvr@cs.hut.fi>
+main 2.c;Vesa-Matti Puro <vmp@lut.fi>
+main 2.c;Jarkko Sonninen <sonninen@lut.fi>
+main 2.c;Jouko Valta <jopi@stekt.oulu.fi>
+main 2.c;Andre Fachat <a.fachat@physik.tu-chemnitz.de>
+main 2.c;Andreas Boose <viceteam@t-online.de>
+uicompiletimefeatures.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_get_hvsc_dir.c;Bas Wassink <b.wassink@ziggo.nl>
+cw-unix.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+petkeyboardtypewidget.c;Bas Wassink <b.wassink@ziggo.nl>
+archdep_expand_path.h;Bas Wassink <b.wassink@ziggo.nl>
+c128memrom.c;Andreas Boose <viceteam@t-online.de>
+jamdialog.c;Bas Wassink <b.wassink@ziggo.nl>
+video-color.c;John Selck <graham@cruise.de>
+video-color.c;Groepaz <groepaz@gmx.net>
+userport_spt_joystick.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+video-canvas.h;Andreas Boose <viceteam@t-online.de>
+menu_c128hw.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+crtc-mem.c;Ettore Perazzoli <ettore@comm2000.it>
+crtc-mem.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+joyport_io_sim.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+vsidtuneinfowidget.h;Bas Wassink <b.wassink@ziggo.nl>
+signals.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vic20-resources.h;Andreas Boose <viceteam@t-online.de>
+actionreplay2.h;groepaz <groepaz@gmx.net>
+drv-mps803.c;Thomas Bretz <tbretz@gsi.de>
+drv-mps803.c;Andreas Boose <viceteam@t-online.de>
+driveimage.c;Andreas Boose <viceteam@t-online.de>
+settings_easyflash.c;Bas Wassink <b.wassink@ziggo.nl>
+supercard.h;groepaz <groepaz@gmx.net>
+ted-snapshot.h;Andreas Boose <viceteam@t-online.de>
+ted-snapshot.h;Ettore Perazzoli <ettore@comm2000.it>
+cbm2cia.h;Jouko Valta <jopi@stekt.oulu.fi>
+cbm2cia.h;Andre Fachat <fachat@physik.tu-chemnitz.de>
+archdep_default_rtc_file_name.c;Bas Wassink <b.wassink@ziggo.nl>
+cbm2cia1.c;Andre Fachat <fachat@physik.tu-chemnitz.de>
+cbm2cia1.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+mmc64.h;Markus Stehr <bastetfurry@ircnet.de>
+mmc64.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+base.h;Bas Wassink <b.wassink@ziggo.nl>
+resourceentry.h;Bas Wassink <b.wassink@ziggo.nl>
+tapecart.c;Ingo Korb <ingo@akana.de>
+video-render-palntsc.c;John Selck <graham@cruise.de>
+video-render-palntsc.c;Dag Lem <resid@nimrod.no>
+video-render-palntsc.c;Andreas Boose <viceteam@t-online.de>
+crtpreviewwidget.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4memsnapshot.c;Andreas Boose <viceteam@t-online.de>
+basewidget_types.h;Bas Wassink <b.wassink@ziggo.nl>
+settings_monitor.c;Bas Wassink <b.wassink@ziggo.nl>
+c64rom.h;Andreas Boose <viceteam@t-online.de>
+archdep_open_default_log_file.h;Bas Wassink <b.wassink@ziggo.nl>
+uidata.h;Bas Wassink <b.wassink@ziggo.nl>
+plus4digiblasterwidget.c;Bas Wassink <b.wassink@ziggo.nl>
+c64printer.c;Andreas Boose <viceteam@t-online.de>
+dtl-basic-dongle.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+vicii-resources.c;Andreas Boose <viceteam@t-online.de>
+vicii-resources.c;Ettore Perazzoli <ettore@comm2000.it>
+userport_rtc_ds1307.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+ps-win32-io.c;Marco van den Heuvel <blackystardust68@yahoo.com>
+userport_wic64.c;groepaz <groepaz@gmx.net>
+sampler4bit.h;Marco van den Heuvel <blackystardust68@yahoo.com>
+archdep_require_vkbd.h;groepaz <groepaz@gmx.net>
+uiapi.h;Andreas Boose <viceteam@t-online.de>
+render1x2rgbi.h;groepaz <groepaz@gmx.net> based on the pal renderers written by
